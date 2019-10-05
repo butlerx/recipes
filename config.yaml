@@ -1,0 +1,16 @@
+---
+baseURL: https://example.com/
+title: Random food
+theme: book
+disableKinds: ['taxonomy', 'taxonomyTerm']
+disablePathToLower: true
+enableGitInfo: true
+pygmentsStyle: monokai
+pygmentsCodeFences: true
+params:
+  BookToC: 3
+  BookMenuBundle: /menu
+  BookRepo: https://github.com/butlerx/foodz
+  BookEditPath: edit/master/content
+  BookDateFormat: 'Jan 2, 2006'
+  BookSearch: true
