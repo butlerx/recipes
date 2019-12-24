@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "gatsby develop",
+    "clean": "gatsby clean",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "@marinda/gatsby-theme-recipes": "^1.2.19",
+    "gatsby": "^2.18.17",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "name": "recipes",
+  "title": "Random food",
+  "version": "1.0.0",
+  "description": "Random recipes i've collected and make",
+  "main": "gatsby-config.js",
+  "repository": "git@github.com:butlerx/foodz.git",
+  "author": "butlerx <butlerx@notthe.cloud>",
+  "license": "MIT"
+}
