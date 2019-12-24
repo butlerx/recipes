@@ -10,8 +10,9 @@ module.exports = {
     author,
     basePath: '/',
     intro: description,
-    menuLinks: [{ name: 'home', slug: '/' }],
+    menuLinks: [{ name: 'about', slug: '/about' }],
     footerLinks: [
+      { name: 'Me', href: 'https://cianbutler.ie' },
       {
         name: 'Gatsby Theme Recipes on Github',
         href: 'https://github.com/mariiinda/gatsby-theme-recipes',
@@ -19,6 +20,7 @@ module.exports = {
     ],
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     {
       resolve: '@marinda/gatsby-theme-recipes',
       options: {

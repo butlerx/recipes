@@ -1,0 +1,27 @@
+---
+backend:
+  name: foodz
+
+media_folder: static/images
+public_folder: images
+
+collections:
+  - name: recipes
+    label: Recipes
+    folder: recipes
+    create: true
+    fields:
+      - name: title
+        label: Title
+      - name: slug
+        label: Slug
+      - name: date
+        label: Date
+        widget: date
+      - name: body
+        label: Body
+        widget: markdown
+      - name: image
+        label: Image
+      - name: tags
+        label: Tags
