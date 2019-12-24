@@ -7,7 +7,7 @@
 
 > Random recipes i've collected and make
 
-### 🏠 [Homepage](recipes.notthe.cloud)
+### 🏠 [Homepage](https://recipes.notthe.cloud)
 
 ## Install
 
