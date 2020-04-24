@@ -779,6 +779,13 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.2"
 
+"@babel/runtime@^7.0.0":
+  version "7.9.2"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.2.tgz#d90df0583a3a252f09aaa619665367bae518db06"
+  integrity sha512-NE2DtOdufG7R5vnfQUTehdTfNycfUANEtCa9PssN9O/xmTzP4E08UI797ixaei6hBEVL9BI/PsdJS5x7mWoB9Q==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
 "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.4", "@babel/runtime@^7.7.6":
   version "7.7.7"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.7.7.tgz#194769ca8d6d7790ec23605af9ee3e42a0aa79cf"
@@ -3413,11 +3420,6 @@ code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
-
-codemirror@^5.46.0:
-  version "5.50.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.50.0.tgz#aeacd18f225735b17cbab98908edace87fedcdab"
-  integrity sha512-32LAmGcBNhKtJP4WGgkcaCVQDyChAyaWA6jasg778ziZzo3PWBuhpAQIJMO8//Id45RoaLyXjuhcRUBoS8Vg+Q==
 
 collapse-white-space@^1.0.0, collapse-white-space@^1.0.2:
   version "1.0.5"
@@ -6402,11 +6404,6 @@ get-proxy@^2.0.0:
   dependencies:
     npm-conf "^1.1.0"
 
-get-relative-path@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/get-relative-path/-/get-relative-path-1.0.2.tgz#45c26fc4247f0c8541cec4b57d0de993ec965cda"
-  integrity sha512-dGkopYfmB4sXMTcZslq5SojEYakpdCSj/SVSHLhv7D6RBHzvDtd/3Q8lTEOAhVKxPPeAHu/YYkENbbz3PaH+8w==
-
 get-stdin@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-4.0.1.tgz#b968c6b0a04384324902e8bf1a5df32579a450fe"
@@ -8237,11 +8234,6 @@ jpeg-js@^0.3.4:
   resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.3.6.tgz#c40382aac9506e7d1f2d856eb02f6c7b2a98b37c"
   integrity sha512-MUj2XlMB8kpe+8DJUGH/3UJm4XpI8XEgZQ+CiHDeyrGoKPdW/8FJv6ku+3UiYm5Fz3CWaL+iXmD8Q4Ap6aC1Jw==
 
-jquery@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
-
 js-base64@^2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.5.1.tgz#1efa39ef2c5f7980bb1784ade4a8af2de3291121"
@@ -9003,15 +8995,15 @@ mem@^4.0.0:
     mimic-fn "^2.0.0"
     p-is-promise "^2.0.0"
 
+"memoize-one@>=3.1.1 <6", memoize-one@^5.0.0:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-5.1.1.tgz#047b6e3199b508eaec03504de71229b8eb1d75c0"
+  integrity sha512-HKeeBpWvqiVJD57ZUAsJNm71eHTykffzcLZVYWiVfQeI1rJtuEaS7hQiEpWfVVk18donPwJEcFKIkCmPJNOhHA==
+
 memoize-one@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-4.1.0.tgz#a2387c58c03fff27ca390c31b764a79addf3f906"
   integrity sha512-2GApq0yI/b22J2j9rhbrAlsHb0Qcz+7yWxeLG8h+95sl1XPUgeLimQSOdur4Vw7cUhrBHwaUZxWFZueojqNRzA==
-
-memoize-one@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-5.1.1.tgz#047b6e3199b508eaec03504de71229b8eb1d75c0"
-  integrity sha512-HKeeBpWvqiVJD57ZUAsJNm71eHTykffzcLZVYWiVfQeI1rJtuEaS7hQiEpWfVVk18donPwJEcFKIkCmPJNOhHA==
 
 memory-fs@^0.4.1:
   version "0.4.1"
@@ -9370,67 +9362,70 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
-netlify-cms-app@^2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.10.1.tgz#e843577dff9b59c34e65f28148cfd4821ca04f68"
-  integrity sha512-3uKR4md4BSP8nrzeKbKDL3slTJWBAuMhvSBk6ChRlxuzrg9XMs//tdgzdkC6mlXE4d46cqguEy9k0bhPxiSnkw==
+netlify-cms-app@^2.12.3:
+  version "2.12.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-app/-/netlify-cms-app-2.12.3.tgz#f02d8f966732d22c98143fdcc6ce76fdbfc8720d"
+  integrity sha512-LS8pmBNQOWWI+f12uWfzd68PwHKsPbTNf7AL1UNzy3b4NjnoE5ddbwtRGlv88blJcF9DrxzdpyTSeS5nP8OYVA==
   dependencies:
     "@emotion/core" "^10.0.9"
     "@emotion/styled" "^10.0.9"
     immutable "^3.7.6"
     lodash "^4.17.11"
     moment "^2.24.0"
-    netlify-cms-backend-bitbucket "^2.6.0"
-    netlify-cms-backend-git-gateway "^2.5.1"
-    netlify-cms-backend-github "^2.5.0"
-    netlify-cms-backend-gitlab "^2.4.0"
-    netlify-cms-backend-test "^2.6.0"
-    netlify-cms-core "^2.13.1"
-    netlify-cms-editor-component-image "^2.4.3"
-    netlify-cms-lib-auth "^2.2.6"
-    netlify-cms-lib-util "^2.4.0"
-    netlify-cms-locales "^1.3.0"
-    netlify-cms-ui-default "^2.7.0"
+    netlify-cms-backend-bitbucket "^2.11.3"
+    netlify-cms-backend-git-gateway "^2.10.2"
+    netlify-cms-backend-github "^2.10.3"
+    netlify-cms-backend-gitlab "^2.8.3"
+    netlify-cms-backend-test "^2.8.1"
+    netlify-cms-core "^2.23.3"
+    netlify-cms-editor-component-image "^2.6.2"
+    netlify-cms-lib-auth "^2.2.8"
+    netlify-cms-lib-util "^2.9.2"
+    netlify-cms-locales "^1.10.2"
+    netlify-cms-ui-default "^2.9.5"
     netlify-cms-widget-boolean "^2.3.0"
+    netlify-cms-widget-code "^1.1.4"
     netlify-cms-widget-date "^2.4.0"
-    netlify-cms-widget-datetime "^2.2.5"
-    netlify-cms-widget-file "^2.4.3"
-    netlify-cms-widget-image "^2.4.0"
-    netlify-cms-widget-list "^2.4.0"
+    netlify-cms-widget-datetime "^2.2.6"
+    netlify-cms-widget-file "^2.6.3"
+    netlify-cms-widget-image "^2.6.2"
+    netlify-cms-widget-list "^2.4.3"
     netlify-cms-widget-map "^1.3.3"
-    netlify-cms-widget-markdown "^2.7.0"
+    netlify-cms-widget-markdown "^2.10.2"
     netlify-cms-widget-number "^2.3.5"
-    netlify-cms-widget-object "^2.3.0"
-    netlify-cms-widget-relation "^2.5.0"
-    netlify-cms-widget-select "^2.4.3"
+    netlify-cms-widget-object "^2.3.1"
+    netlify-cms-widget-relation "^2.5.2"
+    netlify-cms-widget-select "^2.5.1"
     netlify-cms-widget-string "^2.2.3"
     netlify-cms-widget-text "^2.3.0"
     prop-types "^15.7.2"
     react-immutable-proptypes "^2.1.0"
     uuid "^3.3.2"
 
-netlify-cms-backend-bitbucket@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-backend-bitbucket/-/netlify-cms-backend-bitbucket-2.6.0.tgz#cf85de030dacaeb78c0b6a893a011da60b90db49"
-  integrity sha512-3IvIgKBvtabSgzInvr0hLCW8ObFJu4pePNT/vkCUKubCwLFFWmIGiBi6uwWSdP1LWQdiRnc5CzD+qs0HbXW+Xw==
+netlify-cms-backend-bitbucket@^2.11.3:
+  version "2.11.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-backend-bitbucket/-/netlify-cms-backend-bitbucket-2.11.3.tgz#cb54fb0341a433cf734a242b02592fe1574af1b9"
+  integrity sha512-2YqdckIBVBqzoMRV2AJ57iuTJiJOblZC3Dvj6TZj4sQ+fW3x387ybQKM6q6yP1a9h+v9j96/Fw376YV3mjUUzg==
   dependencies:
+    common-tags "^1.8.0"
     js-base64 "^2.5.1"
     semaphore "^1.1.0"
+    what-the-diff "^0.6.0"
 
-netlify-cms-backend-git-gateway@^2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/netlify-cms-backend-git-gateway/-/netlify-cms-backend-git-gateway-2.5.1.tgz#bc86919b8f890c383cd3f89fb058bfb9610f72d8"
-  integrity sha512-qZUaRgXzCNzU+yQMh4YgWHY8C1n8d7Tx9eg78CfEkZYK+VCeSLPitNnZT/cHeeh4N1THbf56tOY4A4jkpi+q9A==
+netlify-cms-backend-git-gateway@^2.10.2:
+  version "2.10.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-backend-git-gateway/-/netlify-cms-backend-git-gateway-2.10.2.tgz#26203f415d8918d17de2262c62770cce35b216ef"
+  integrity sha512-Li9m7jkelG+dtYRo7MaCi6fZR4X6hzMp6d89EfLhKn8PAUpJOsgdERnESuZ4a3ZLweF5Trwio3Tvj6BeSWD7BA==
   dependencies:
     gotrue-js "^0.9.24"
     ini "^1.3.5"
     jwt-decode "^2.2.0"
     minimatch "^3.0.4"
 
-netlify-cms-backend-github@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-backend-github/-/netlify-cms-backend-github-2.5.0.tgz#d57e4a9dcc3b905b9f99de72e2eabcf050909dff"
-  integrity sha512-5ybSPXREjuYyEfAmQg4PcGdd4h5pd8eeF2/AwLxUpq0cMwDZsvpbv+wZ8+FM8u2Pov8fhh5rKnVAP/Jnb0TWTg==
+netlify-cms-backend-github@^2.10.3:
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-backend-github/-/netlify-cms-backend-github-2.10.3.tgz#e5661c03e66f8310045bd7e032bb24ef4a5096dd"
+  integrity sha512-6xqqGt3R/r9/Wt/nQ+Y/lkGyqnJB0bgNbUpNi9NZpWPm4lJsBhe9qFQ+4ocUfThXQjqZlxRmI+H4/gajng1ESQ==
   dependencies:
     apollo-cache-inmemory "^1.6.2"
     apollo-client "^2.6.3"
@@ -9442,23 +9437,23 @@ netlify-cms-backend-github@^2.5.0:
     js-base64 "^2.5.1"
     semaphore "^1.1.0"
 
-netlify-cms-backend-gitlab@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-backend-gitlab/-/netlify-cms-backend-gitlab-2.4.0.tgz#e29011ca6d0b1249aa22857975891c54340755bf"
-  integrity sha512-ZIDCPaT2As4LIYidaieWkRUnnXhttJLc8viguShKHMz3JnZov6YpNH6Rw9UYkOZmv/a6YldtNERJLUn15xxMaw==
+netlify-cms-backend-gitlab@^2.8.3:
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-backend-gitlab/-/netlify-cms-backend-gitlab-2.8.3.tgz#aa605088015915483d2b4e28dfae52f90e7c78e2"
+  integrity sha512-9UHxE2w6blZB+nKuaiHSCZoYYdIYv7xZYdEpCOVeflDvwCkiDfYKcvf0GtpqMYDjr40G+WzHIy0UsOHuGyUPPg==
   dependencies:
     js-base64 "^2.5.1"
     semaphore "^1.1.0"
 
-netlify-cms-backend-test@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-backend-test/-/netlify-cms-backend-test-2.6.0.tgz#56254eb83759be9355f976bc3711fe5da185f5fa"
-  integrity sha512-Mbl3g4j1FqvKcgxHRbMp5hMUVrUP8tKSePtSePmd6+cJxgtSpndUZmWRc8/HdxIvpXfuliyP0+EJqJvv3OFsYA==
+netlify-cms-backend-test@^2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/netlify-cms-backend-test/-/netlify-cms-backend-test-2.8.1.tgz#9898dbea05496b4e44e65ed6d426564064aa217a"
+  integrity sha512-2/dQn6zfFElTsOXSGeqlmH9wEwNVs1kWNfOR9T9ZOMqsiHzzXflL/ZHbVBqJjdN7jHbv0l5BlKIgLBM5ntmluA==
 
-netlify-cms-core@^2.13.1:
-  version "2.13.1"
-  resolved "https://registry.yarnpkg.com/netlify-cms-core/-/netlify-cms-core-2.13.1.tgz#ffab66452454bd5b7f6915fed97db71b67a0e022"
-  integrity sha512-AAoEMF3mRDZGlzycf/Td4jJbuTFpqZzSq0EZxxiK5w8ljayo3Ee/22rLIlvOXmRm8JbVR+PHKY3FJZWGVdytXA==
+netlify-cms-core@^2.23.3:
+  version "2.23.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-core/-/netlify-cms-core-2.23.3.tgz#dd54b6cb2f1dd79321db72899f113b4cd0f8c641"
+  integrity sha512-L8NMrh9AzKVCX8AP8Ti8nNtrjbUpw50q6h3/1W22KAXen/YfzjyhhP71jJx31coBmonBYQcj+03QCP4WeDFw1g==
   dependencies:
     "@iarna/toml" "2.2.3"
     ajv "^6.10.0"
@@ -9492,7 +9487,9 @@ netlify-cms-core@^2.13.1:
     react-sortable-hoc "^1.0.0"
     react-split-pane "^0.1.85"
     react-topbar-progress-indicator "^2.0.0"
+    react-virtualized-auto-sizer "^1.0.2"
     react-waypoint "^8.1.0"
+    react-window "^1.8.5"
     redux "^4.0.1"
     redux-notifications "^4.0.1"
     redux-optimist "^1.0.0"
@@ -9503,47 +9500,34 @@ netlify-cms-core@^2.13.1:
     url "^0.11.0"
     what-input "^5.1.4"
 
-netlify-cms-editor-component-image@^2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/netlify-cms-editor-component-image/-/netlify-cms-editor-component-image-2.4.3.tgz#73f01b412d2b59f7fb4cb0d93b4229535c8cc749"
-  integrity sha512-E7z9+LGBMGov7dU9CJKuJ72rcGWCXnE1jKWcfewlHKtGTG9YqoCVtQFWxXv35Wjt79ZA9UqX7XpQnzgS7uA+CQ==
+netlify-cms-editor-component-image@^2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-editor-component-image/-/netlify-cms-editor-component-image-2.6.2.tgz#aa048ed6379578f8ab6ee00a2fa1eadbb70ddbf4"
+  integrity sha512-I7427tvMP364seqAFQ10O1nPlIqNBfdUmwE9NjBiuJxYQQ0A22p1fdT3ip2R2YohfYRk4sqOhyq/FZAz9O+o4A==
 
-netlify-cms-lib-auth@^2.2.6:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/netlify-cms-lib-auth/-/netlify-cms-lib-auth-2.2.6.tgz#5a36bd15c4a5d25ae541d3b5519f155beed76f04"
-  integrity sha512-mgloPQEvQ6YZvfko/7onk5jiDXfEFDsWxeSx2hQjVs9o5O9Wje+3mPsX8bAYiHKPRpXtrXVIxgK4TGVTN1m6Iw==
+netlify-cms-lib-auth@^2.2.8:
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/netlify-cms-lib-auth/-/netlify-cms-lib-auth-2.2.8.tgz#6949e0ba4f0010c3bf4e58e1d47c2548a79f19cc"
+  integrity sha512-c5guwoa9dsGhzMbOxI1lMGaeKizpRW0FzEZGyQemdw4ig2OrIdM0cbZ3Fq5Dr9HVzi+lXSJ05+u7z8qJI8RvyA==
 
-netlify-cms-lib-util@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-lib-util/-/netlify-cms-lib-util-2.4.0.tgz#972e76d4149603fff17e6e1b32b4396dd695df0e"
-  integrity sha512-51CveTDtZ4PBN0TwdaBymwrQxLAvLa35pKL4e/R2JFPsx1KuOJyzTrbPV+5PTtmtKc3xsdCdZ7Xn83olf1MRpQ==
+netlify-cms-lib-util@^2.9.2:
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-lib-util/-/netlify-cms-lib-util-2.9.2.tgz#6cb1535fdb8da4b41e55edbcf41d45adf04451cb"
+  integrity sha512-QeaLXh8Jn7ihwCVVsUeJpc7g/WQGGsQg/MGwphKfecTEOGG975Kte8QU4WtgLqIB+DaUNR/NDgitYlY62zEjOw==
   dependencies:
-    get-relative-path "^1.0.2"
     js-sha256 "^0.9.0"
     localforage "^1.7.3"
+    semaphore "^1.1.0"
 
-netlify-cms-locales@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-locales/-/netlify-cms-locales-1.3.0.tgz#e2c4547512d447862ecd959b9060aa3e5b05ccfe"
-  integrity sha512-VYBYAcIICDdl5n+uBHj/5Pgj9jBdIvge1nVTUwo0YllZblFr/KIDEVd5Fr2PDo03KS2i1sGSbybzDcJEsCBCdg==
+netlify-cms-locales@^1.10.2:
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-locales/-/netlify-cms-locales-1.10.2.tgz#04599e5049137aab916467cd402c87f16582ce1b"
+  integrity sha512-g2q/e9ief7tBvU9s4wfqTCGQHvxfCDrNo9o5xDrJTaVzZ4aQ1rCg36gL4MAaqaSfTwhVHW2dfgogCqPwkuFigQ==
 
-netlify-cms-media-library-cloudinary@^1.3.4:
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/netlify-cms-media-library-cloudinary/-/netlify-cms-media-library-cloudinary-1.3.4.tgz#ef8aa18ff85d4f1957a5ce4ca89799cda3334ec1"
-  integrity sha512-ujVXy1nhvYISf6Fs/UGgCWEchbEHlrpkBpwFfVdGyOpKanimmVRlqceMPzsLJbnmB2STCPWCG7vOnmvd0hZ7kw==
-
-netlify-cms-media-library-uploadcare@^0.5.5:
-  version "0.5.5"
-  resolved "https://registry.yarnpkg.com/netlify-cms-media-library-uploadcare/-/netlify-cms-media-library-uploadcare-0.5.5.tgz#295e0f5d01c0029df9e5ec03649c76a2f92fc12f"
-  integrity sha512-+pH6UKXD7nuF+WUX3C/Tk0X0vcKHndl4vZJQCdojqtk+PrOBk3VXri5XJkJd2xFUtksdprCRaKPvB2RKbuolEQ==
-  dependencies:
-    uploadcare-widget "^3.7.0"
-    uploadcare-widget-tab-effects "^1.4.0"
-
-netlify-cms-ui-default@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-ui-default/-/netlify-cms-ui-default-2.7.0.tgz#43d969a145edd32d4d24a9585372659613d898f8"
-  integrity sha512-ECPIpAJ9EBS4DprpLaG9Ytfcqz3iwfJSf245QgjgkTd03/Pkfqnh/lHwssvWQagZpZZiaE0IV+3Wbz2b+0+lnQ==
+netlify-cms-ui-default@^2.9.5:
+  version "2.9.5"
+  resolved "https://registry.yarnpkg.com/netlify-cms-ui-default/-/netlify-cms-ui-default-2.9.5.tgz#58158cd86a6dec01a9911afa8f16136cd2a378cd"
+  integrity sha512-Di5M4GRiHsixWi38GO9B7D+fSPrD7vojkD9bjfKS/C6Ld4HFRFeBl/enhzNMY2A3xVRAzYv1yN7DXrjzWgFphw==
   dependencies:
     react-aria-menubutton "^6.0.0"
     react-toggled "^1.1.2"
@@ -9554,10 +9538,10 @@ netlify-cms-widget-boolean@^2.3.0:
   resolved "https://registry.yarnpkg.com/netlify-cms-widget-boolean/-/netlify-cms-widget-boolean-2.3.0.tgz#4f5ba859e30d73da1ed5f6a8dac5b79e0a3fa8b2"
   integrity sha512-JWtC2B9oxGB0QQZs3270PN0qtNAOaTUjSOFePERv0IvCrSh+tmIdmNqti2sfC0S1Gnb4kcV9Ebp8W45XoNKdig==
 
-netlify-cms-widget-code@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-code/-/netlify-cms-widget-code-1.1.1.tgz#eca5bc550a79b576e327603e7cfaf62c9281794a"
-  integrity sha512-eL0zScccc/JXHutz+5+BZk8nuyrHnEZdpbpENiSUZQui8eO6urC33fAMMp2XDKGqBDFY7Ys0tJMsn0qneqiLvQ==
+netlify-cms-widget-code@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-code/-/netlify-cms-widget-code-1.1.4.tgz#be367bb574508e3ddaf25bda2a7aff811ab9cade"
+  integrity sha512-/Y7ec6CporK5Bv9SUnRBOPZ3UgA0pQJXUQQ/aekXG/mhIJ2ICVX4+aFRxXy6w0rlQLVRrPhscRx6ojk7EUtk9g==
   dependencies:
     re-resizable "^4.11.0"
     react-codemirror2 "^6.0.0"
@@ -9570,27 +9554,27 @@ netlify-cms-widget-date@^2.4.0:
   dependencies:
     react-datetime "^2.16.3"
 
-netlify-cms-widget-datetime@^2.2.5:
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-datetime/-/netlify-cms-widget-datetime-2.2.5.tgz#a030a09299d2448dc181b31224d55fd76074b893"
-  integrity sha512-zoCuqkcelNvBwKlv5tJll67rKXFE/tq1W6SlT/f0LbRR78X/CY7jSTuTKbawHYi4XAg4Hhc4NmgKX2C8AWm39g==
+netlify-cms-widget-datetime@^2.2.6:
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-datetime/-/netlify-cms-widget-datetime-2.2.6.tgz#a5d4b88d96e902439f21156f612f6df510f28edc"
+  integrity sha512-6hOGEyx+V1gc/88cVEHR29FZQPyYuEk8p0Kg0dsWO/KHspJkzwv0jI91Mad4ATTQD8hBUHKm1adTp6fwcWTQVw==
 
-netlify-cms-widget-file@^2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-file/-/netlify-cms-widget-file-2.4.3.tgz#221bfd0600812b7a202dae7b199605fb5f067168"
-  integrity sha512-Nw5I67qAlkWv/YzXzSgudCuCPmVjKZbJ7dIgt/xTxF2U/4/QhFFcb75nbRCUqzrUpSjDMQXkxhmJFwjcSEKDqg==
+netlify-cms-widget-file@^2.6.3:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-file/-/netlify-cms-widget-file-2.6.3.tgz#7392ec9032f8dd75c634d0d82a0e79234afc9951"
+  integrity sha512-zj5aSVE/OvKYQVEF2vSngPH4uuC4wrMRdPhEhcUlK0Ep018bj5PqhRB0Wqf04Trl3bEuNJQU2KOuTlhWCNudvQ==
   dependencies:
     common-tags "^1.8.0"
 
-netlify-cms-widget-image@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-image/-/netlify-cms-widget-image-2.4.0.tgz#8e2131fee5f1f328eb9f830828f2a7c660e7489c"
-  integrity sha512-Ve3MPCVpXd+BWR28aB46pV4NWU84CoaU4d+DJL+70fFwFQurXBNx99Yg5bpbyIVF8sOeJHbSRh8Rie0BNmmX/A==
+netlify-cms-widget-image@^2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-image/-/netlify-cms-widget-image-2.6.2.tgz#de4c7091d0ae5097b369762e45b0e5cac594a188"
+  integrity sha512-2D9pMSWtxmEDnl8Rg1XjJA0IQREfP3eD6C+aNgsENCXl22tFdCkvhuNq6MrnJSkf4xqkHYs0M8/O1x56OLhmlQ==
 
-netlify-cms-widget-list@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-list/-/netlify-cms-widget-list-2.4.0.tgz#b609b93fde9a1f1ac8439e17fdb08935fbf86c87"
-  integrity sha512-NE6nfoQf20KoBjax+bC27drmbJr2AXgCVxMtpHiQrTNsOuHHWjJqUVVvXoAeI+Kkw5oRXIzZ9alDA+NXS4KIaQ==
+netlify-cms-widget-list@^2.4.3:
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-list/-/netlify-cms-widget-list-2.4.3.tgz#a1baf13aadbbff14a82851b7529da3769715605e"
+  integrity sha512-n7G4xgORf2n9qex77PwJ9Mf0kTxH7EmSS23yabhxYyjwXazhhiemlEU0q7CUyK8uZwTiGPJrbkqbOIsbJB4cXA==
   dependencies:
     react-sortable-hoc "^1.0.0"
 
@@ -9601,10 +9585,10 @@ netlify-cms-widget-map@^1.3.3:
   dependencies:
     ol "^5.3.1"
 
-netlify-cms-widget-markdown@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-markdown/-/netlify-cms-widget-markdown-2.7.0.tgz#2a5c5d2570069982f6b2087a6808b45de2736381"
-  integrity sha512-oW1V0OWSj+pTcdg6sMI2iL01xuazJ0tc2IEZ8OFgP/JYisxnzRXB7iLIuBjqFDeKX1l34Q0xyQgZ3qLLCrv7AA==
+netlify-cms-widget-markdown@^2.10.2:
+  version "2.10.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-markdown/-/netlify-cms-widget-markdown-2.10.2.tgz#1f847ab12d56919d40726d0e4939ddd385808d51"
+  integrity sha512-mozKzBkzR0E8AYgLaXgHXT2cvmN82HUd5HJdYCY1TbxyRz1PLZSjQC8o2c+6o60wdUhZyqrvArA9iIQAuNmnoA==
   dependencies:
     is-hotkey "^0.1.4"
     mdast-util-definitions "^1.2.3"
@@ -9632,22 +9616,22 @@ netlify-cms-widget-number@^2.3.5:
   resolved "https://registry.yarnpkg.com/netlify-cms-widget-number/-/netlify-cms-widget-number-2.3.5.tgz#32348c6bbb8db0f97ff014611b839afd5aec5a5d"
   integrity sha512-s1yMrM8nC3AryC4Qgn+EklOTrA/AvHix7Pqhc5qXe3NIwxj7GPsJ+DqbjCZWyTq/LHjhC4q/IyNh5KIXqfjEnA==
 
-netlify-cms-widget-object@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-object/-/netlify-cms-widget-object-2.3.0.tgz#69b187b3005e5d4914581b160cc128247804b5ee"
-  integrity sha512-VW7io1ES97W8DUy7mBiZS2+UPTV6FFRdnXJdAwEkSidrTiIJ281Z3ptlFkuBorCztwNk98OUtoybS41mHYc9dA==
+netlify-cms-widget-object@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-object/-/netlify-cms-widget-object-2.3.1.tgz#a8adc1f97f5b2772809690b2478007e7e610e407"
+  integrity sha512-i9NDAfxv1WGEklbPpdU2uIUUH2IP3M6XzQN1kion2eqzoIORlW5lQEuHBRjzvaIAIXIo6PyRbgAPC3xzgedUhA==
 
-netlify-cms-widget-relation@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-relation/-/netlify-cms-widget-relation-2.5.0.tgz#e837044706cc0ef9a7e42b69919cd71b38765dc3"
-  integrity sha512-jZZsO4+PUYgiz4VWRVH/cwRnqgdSXWOvFSRLgpDfped4B8jsCEDHp0M07hOiFr2K1p6HOmMnk65TbziA5kG8FQ==
+netlify-cms-widget-relation@^2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-relation/-/netlify-cms-widget-relation-2.5.2.tgz#1af1813737cb90d0a6793feb862c294a19589000"
+  integrity sha512-7Gb/ckpoJr6ehKpSn4Zag4UMM926xyZW6jinLb69SwF3UbFuj4o9waxrqX0LhFBYBMAGksryxXeXOI4+I6flVg==
   dependencies:
     react-select "^2.4.2"
 
-netlify-cms-widget-select@^2.4.3:
-  version "2.4.3"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-select/-/netlify-cms-widget-select-2.4.3.tgz#7b8920297fd0d9d048b87925af01593141bbf07b"
-  integrity sha512-wcJJRwPk4lrd/5RSP0n2hg3FNQZMcqu8AmTe7IsYB909m/2uR/dPOHwc7ZN+vwSEyncuFjlu/erNkP1pvS5GgA==
+netlify-cms-widget-select@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-select/-/netlify-cms-widget-select-2.5.1.tgz#a4ab47c6dc4204bb42238f35c62973dd69e35092"
+  integrity sha512-KL4iNqThPVS73uBxVz8KE4wvEsMQGUVZcq5qIm70mlclcMw11XriJr499BUXRqjPAWyKx88zfMthMYz+5Ha6wQ==
   dependencies:
     react-select "^2.4.2"
 
@@ -9662,19 +9646,6 @@ netlify-cms-widget-text@^2.3.0:
   integrity sha512-uAGC9l4zzIGbVgLBGf7X47VKYC0kjKNuqDpplvg8pQ6pZAY70tlV4DxmxAQSOL0mKZS9a45MVNlaiiuj8fAmaA==
   dependencies:
     react-textarea-autosize "^7.1.0"
-
-netlify-cms@^2.10.2:
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-2.10.2.tgz#c926dd296895a565dc563f4850e6bc4418715822"
-  integrity sha512-UjVw6CuD3NDGR5U0uNxN0XbpYtrZZ8JT/teKZXUDdP4KxOGp88bZ3JnFofuN6+o7FTxg8O+E/PhErRN64p7uLQ==
-  dependencies:
-    codemirror "^5.46.0"
-    netlify-cms-app "^2.10.1"
-    netlify-cms-media-library-cloudinary "^1.3.4"
-    netlify-cms-media-library-uploadcare "^0.5.5"
-    netlify-cms-widget-code "^1.1.1"
-    react "^16.8.4"
-    react-dom "^16.8.4"
 
 netlify-identity-widget@^1.5.6:
   version "1.5.6"
@@ -11814,6 +11785,11 @@ react-transition-group@^2.2.1, react-transition-group@^2.6.0:
     prop-types "^15.6.2"
     react-lifecycles-compat "^3.0.4"
 
+react-virtualized-auto-sizer@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.2.tgz#a61dd4f756458bbf63bd895a92379f9b70f803bd"
+  integrity sha512-MYXhTY1BZpdJFjUovvYHVBmkq79szK/k7V3MO+36gJkWGkrXKtyr4vCPtpphaTLRAdDNoYEYFZWE8LjN+PIHNg==
+
 react-waypoint@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/react-waypoint/-/react-waypoint-8.1.0.tgz#91d926a2fd1be4cbd0351cb8c3d494fac0ef1699"
@@ -11822,6 +11798,14 @@ react-waypoint@^8.1.0:
     consolidated-events "^1.1.0 || ^2.0.0"
     prop-types "^15.0.0"
     react-is "^16.6.3"
+
+react-window@^1.8.5:
+  version "1.8.5"
+  resolved "https://registry.yarnpkg.com/react-window/-/react-window-1.8.5.tgz#a56b39307e79979721021f5d06a67742ecca52d1"
+  integrity sha512-HeTwlNa37AFa8MDZFZOKcNEkuF2YflA0hpGPiTT9vR7OawEt+GZbfM6wqkBahD3D3pUjIabQYzsnY/BSJbgq6Q==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    memoize-one ">=3.1.1 <6"
 
 react@^16.12.0, react@^16.8.4:
   version "16.12.0"
@@ -12001,6 +11985,11 @@ regenerator-runtime@^0.13.2, regenerator-runtime@^0.13.3:
   version "0.13.3"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.3.tgz#7cf6a77d8f5c6f60eb73c5fc1955b2ceb01e6bf5"
   integrity sha512-naKIZz2GQ8JWh///G7L3X6LaQUAMp2lvb1rvwwsURe/VXwD6VMfr+/1NuNw3ag8v2kY1aQ/go5SNn79O9JU7yw==
+
+regenerator-runtime@^0.13.4:
+  version "0.13.5"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.5.tgz#d878a1d094b4306d10b9096484b33ebd55e26697"
+  integrity sha512-ZS5w8CpKFinUzOwW3c83oPeVXoNsrLsaCoLtJvAClH135j/R77RuymhiSErhm2lKcwSCIpmvIWSbDkIfAqKQlA==
 
 regenerator-transform@^0.14.0:
   version "0.14.1"
@@ -14397,18 +14386,6 @@ update-notifier@^3.0.1:
     semver-diff "^2.0.0"
     xdg-basedir "^3.0.0"
 
-uploadcare-widget-tab-effects@^1.4.0:
-  version "1.4.6"
-  resolved "https://registry.yarnpkg.com/uploadcare-widget-tab-effects/-/uploadcare-widget-tab-effects-1.4.6.tgz#ca806e693f37c5a8af017af3e5ca55f678fab265"
-  integrity sha512-83Nu4w1rmWnQWpD14cM5HczmpZX326MwQbhVhfBhDt9mQtd2PxOCZbgaxq03YP6Cbrs87U6V1IokP7UkJRjcfw==
-
-uploadcare-widget@^3.7.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/uploadcare-widget/-/uploadcare-widget-3.8.0.tgz#4a505689ba8d2ec79f7d1879da3d4459294b9d67"
-  integrity sha512-Mgd8L9OVryWifg7nlbm3c1xO6XgBHtuiVkwHkoAy9TivrFItwFvDXC7aAI7mwNJ0umB+URw4/1qJ3Xu9PEbkVw==
-  dependencies:
-    jquery "^3.4.1"
-
 upper-case-first@^1.1.0, upper-case-first@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/upper-case-first/-/upper-case-first-1.1.2.tgz#5d79bedcff14419518fd2edb0a0507c9b6859115"
@@ -14807,6 +14784,11 @@ what-input@^5.1.4:
   version "5.2.6"
   resolved "https://registry.yarnpkg.com/what-input/-/what-input-5.2.6.tgz#ac6f003bf8d3592a0031dea7a03565469b00020b"
   integrity sha512-a0BcI5YR7xp87vSzGcbN0IszJKpUQuTmrZaTSQBl7TLDIdKj6rDhluQ7b/7lYGG81gWDvkySsEvwv4BW5an9kg==
+
+what-the-diff@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/what-the-diff/-/what-the-diff-0.6.0.tgz#445cc56a9d8ee9aea0ee1ed943f4957ae009291e"
+  integrity sha512-8BgQ4uo4cxojRXvCIcqDpH4QHaq0Ksn2P3LYfztylC5LDSwZKuGHf0Wf7sAStjPLTcB8eCB8pJJcPQSWfhZlkg==
 
 whatwg-fetch@2.0.4:
   version "2.0.4"
