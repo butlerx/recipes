@@ -1,0 +1,63 @@
+baseURL = "https://recipes.notthe.cloud"
+disablePathToLower = true
+languageCode = "en-ie"
+title = "Drunk Chef"
+theme = "gochowdown"
+defaultcontentlanguage = "en"
+paginate = 20.0
+canonifyurls = true
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsOptions = "linenos=table"
+
+[permalinks]
+posts = "/posts/:year/:month/:title"
+
+[params]
+author = "Cian Butler"
+description = "Random recipes i've collected and made"
+keywords = "recipes"
+custom_css = ["style.css"]
+
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  weight = 1.0
+  url = "/"
+
+  [[menu.main]]
+  name = "Category"
+  weight = 2.0
+  url = "/category/"
+
+  [[menu.main]]
+  name = "Cuisine"
+  weight = 3.0
+  url = "/cuisine/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 4.0
+  url = "/tags/"
+
+  [[menu.footer]]
+    name = "Me"
+    url = "https://cianbutler.ie"
+
+[taxonomies]
+category = "category"
+cusine = "cuisine"
+tag = "tags"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML"]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"

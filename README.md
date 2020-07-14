@@ -12,13 +12,13 @@
 ## Install
 
 ```sh
-yarn install
+make install
 ```
 
 ## Usage
 
 ```sh
-yarn run start
+make build
 ```
 
 ## Author
