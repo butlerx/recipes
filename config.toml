@@ -1,7 +1,7 @@
 baseURL = "https://recipes.notthe.cloud"
 disablePathToLower = true
 languageCode = "en-ie"
-title = "Drunk Chef"
+title = "Kitchen Runbook"
 theme = "recipes"
 defaultcontentlanguage = "en"
 paginate = 20.0

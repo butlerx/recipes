@@ -6,7 +6,7 @@ layout: recipe
 tags:
   - Sourdough
   - Rhubarb
-  - dessert
+  - Dessert
 yield: 12
 prepTime: 15
 cookTime: 20
