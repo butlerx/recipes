@@ -1,5 +1,4 @@
 title = "Kitchen Runbook"
-theme = "cookbook"
 baseURL = "https://recipes.notthe.cloud"
 languageCode = "en-ie"
 defaultcontentlanguage = "en"
@@ -10,7 +9,6 @@ sectionPagesMenu = "main"
 [params]
 author = "Cian Butler"
 description = "Random recipes i've collected and made"
-homeMetaContent = "Random recipes i've collected and made"
 keywords = "recipes"
 dateFormat = "Jan 2, 2006"
 codePenUser = "butlerx"
@@ -68,3 +66,22 @@ fileName = "/images/icon.png"
   noUgly = true
   permalinkable = true
   path = "print"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false

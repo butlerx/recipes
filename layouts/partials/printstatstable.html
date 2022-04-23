@@ -1,21 +1,17 @@
 <div class="columns">
   <div class="column" style="border-right: 1px solid #dbdbdb; padding: 0px;">
     <i class="fas fa-concierge-bell"></i>
-    <div></div>
     <p class="has-text-weight-bold">Servings</p>
-    <div></div>
     {{ .Params.Servings | default "---"}} Servings
   </div>
   <div class="column" style="border-right: 1px solid #dbdbdb; padding: 0px;">
     <i class="fas fa-hourglass-half"></i>
-    <div></div>
     <p class="has-text-weight-bold">Prep time</p>
-    <div></div>
-    {{ .Params.prep_time | default "---"}} {{ .Params.prep_increment | default "Minutes" | humanize }}
+    {{ .Params.prep_time | default "---"}}
+    {{ .Params.prep_increment | default "Minutes" | humanize }}
   </div>
   <div class="column" style="border-right: 1px solid #dbdbdb; padding: 0px;">
     <i class="fas fa-temperature-high"></i>
-    <div></div>
     <p class="has-text-weight-bold is-size-6">
       {{- if (default .Params.Cook true) -}}
         Cooking Time
@@ -23,7 +19,7 @@
         Cooling Time
       {{- end -}}
     </p>
-    <div></div>
-    {{ .Params.Cook_time | default "---"}} {{ .Params.cook_increment | default "Minutes" | humanize }}
+    {{ .Params.Cook_time | default "---"}}
+    {{ .Params.cook_increment | default "Minutes" | humanize }}
   </div>
 </div>

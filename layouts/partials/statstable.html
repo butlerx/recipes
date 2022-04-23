@@ -1,29 +1,23 @@
 <div class="columns is-mobile is-multiline">
   <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb;">
     <i class="fas fa-concierge-bell fa-lg"></i>
-    <div></div>
     <p class="has-text-weight-bold is-size-6">Servings</p>
-    <div></div>
-    {{ .Params.Servings | default "---"}} Servings
+    {{- .Params.Servings | default "---"}} Servings
   </div>
   <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb;">
     <i class="fas fa-hourglass-half fa-lg"></i>
-    <div></div>
     <p class="has-text-weight-bold is-size-6">Prep time</p>
-    <div></div>
-    {{ .Params.prep_time | default "---"}} {{ .Params.prep_increment | default "Minutes" | humanize }}
+    {{- .Params.prep_time | default "---"}}
+    {{ .Params.prep_increment | default "Minutes" | humanize -}}
   </div>
   <div class="column is-half-mobile" style="border-right: 1px solid #dbdbdb;">
     <i class="fas fa-temperature-high fa-lg"></i>
     <div></div>
     <p class="has-text-weight-bold is-size-6">
-      {{- if (default .Params.Cook true) -}}
-        Cooking Time
-      {{- else -}}
-        Cooling Time
-      {{- end -}}
+      {{- if (default .Params.Cook true) -}} Cooking Time {{- else -}} Cooling
+      Time {{- end -}}
     </p>
-    <div></div>
-    {{ .Params.Cook_time | default "---"}} {{ .Params.cook_increment | default "Minutes" | humanize }}
+    {{- .Params.Cook_time | default "---" }}
+    {{ .Params.cook_increment | default "Minutes" | humanize -}}
   </div>
 </div>
