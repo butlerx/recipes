@@ -1,63 +1,70 @@
-baseURL = "https://recipes.notthe.cloud"
-disablePathToLower = true
-languageCode = "en-ie"
 title = "Kitchen Runbook"
-theme = "recipes"
+theme = "cookbook"
+baseURL = "https://recipes.notthe.cloud"
+languageCode = "en-ie"
 defaultcontentlanguage = "en"
 paginate = 20.0
-canonifyurls = true
-pygmentsstyle = "monokai"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-pygmentsOptions = "linenos=table"
-
-[permalinks]
-posts = "/posts/:year/:month/:title"
+enableGitInfo = true
+sectionPagesMenu = "main"
 
 [params]
 author = "Cian Butler"
 description = "Random recipes i've collected and made"
+homeMetaContent = "Random recipes i've collected and made"
 keywords = "recipes"
-custom_css = ["style.css"]
+dateFormat = "Jan 2, 2006"
+codePenUser = "butlerx"
+katex = true
+hideHeaderLinks = false
+search = true
+showThemeSwitcher = true
+moveFooterToHeader = false
 
+[permalinks]
+posts = "/:filename"
 
 [menu]
   [[menu.main]]
-  name = "Home"
-  weight = 1.0
-  url = "/"
-
-  [[menu.main]]
-  name = "Category"
-  weight = 2.0
-  url = "/category/"
-
-  [[menu.main]]
-  name = "Cuisine"
-  weight = 3.0
-  url = "/cuisine/"
-
-  [[menu.main]]
-  name = "Tags"
-  weight = 4.0
-  url = "/tags/"
-
-  [[menu.footer]]
     name = "Me"
     url = "https://cianbutler.ie"
+    weight = 10
 
-[taxonomies]
-category = "category"
-cusine = "cuisine"
-tag = "tags"
+  [[menu.main]]
+    name = "Home"
+    pre = "fas fa-home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    pre = "fas fa-tags"
+    url = "/tags/"
+    weight = 2
+
+[params.front]
+defaultAuthor = "Cian Butler"
+
+
+[params.logo]
+fileName = "/images/logo.webp"
+height = 50
+width = 200
+
+[params.favicon]
+fileName = "/images/icon.png"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML"]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "PRINT"]
 
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
-
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
+[outputFormats]
+[outputFormats.printFormat]
+  name = "print"
+  mediaType = "text/html"
+  baseName = "print"
+  isPlainText = false
+  rel = "print"
+  isHTML = true
+  noUgly = true
+  permalinkable = true
+  path = "print"

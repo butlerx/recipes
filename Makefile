@@ -10,7 +10,7 @@ DESTDIR := public
 HUGO_VERSION := 0.73.0
 HUGO := .cache/hugo_$(HUGO_VERSION)
 
-THEME := $(shell awk -F\= '/theme/ {gsub(/"/,"",$$2);gsub(/ /, "", $$2);print $$2}' config.toml)
+THEME := $(shell awk -F'[ ="]+' '$$1 == "theme" { print $$2 }' config.toml)
 THEME_DIR := themes/$(THEME)
 
 OPTIMIZE = find $(DESTDIR) -not -path "*/static/*" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) -print0 | \
@@ -22,7 +22,7 @@ $(THEME_DIR):
 	git submodule update
 
 build: public  ## Build Site
-public: config.toml $(THEME_DIR) content $(HUGO)
+public: config.toml $(THEME_DIR) content $(HUGO) static layouts
 	@echo "🍳 Generating site"
 	$(HUGO) --gc --minify -d $(DESTDIR)
 
@@ -34,7 +34,7 @@ deploy: clean public ## Deploy site to Netlify
 
 .PHONY: update
 update: ## Update themes
-	@echo "🛎 Updating Them"
+	@echo "🛎 Updating Theme"
 	git submodule update --remote --merge
 
 .PHONY: serve
