@@ -6,14 +6,18 @@ paginate = 20.0
 enableGitInfo = true
 sectionPagesMenu = "main"
 
+[author]
+  name = "Cian Butler"
+  email = "butlerx@notthe.cloud"
+
 [params]
-author = "Cian Butler"
-description = "Random recipes i've collected and made"
-keywords = "recipes"
-dateFormat = "Jan 2, 2006"
+  description = "Random recipes i've collected and made"
+  keywords = "recipes"
+  dateFormat = "Jan 2, 2006"
+  theme = "#151515"
 
 [permalinks]
-posts = "/:filename"
+  posts = "/:filename"
 
 [menu]
   [[menu.main]]
@@ -32,36 +36,22 @@ posts = "/:filename"
     weight = 2
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "MANIFEST"]
   page = ["HTML", "PRINT"]
 
 [outputFormats]
-[outputFormats.printFormat]
-  name = "print"
-  mediaType = "text/html"
-  baseName = "print"
-  isPlainText = false
-  rel = "print"
-  isHTML = true
-  noUgly = true
-  permalinkable = true
-  path = "print"
-
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
+  [outputFormats.manifest]
+    name = "manifest"
+    baseName = "manifest"
+    mediaType = "application/json"
+    notAlternative = "true"
+  [outputFormats.printFormat]
+    name = "print"
+    mediaType = "text/html"
+    baseName = "print"
+    isPlainText = false
+    rel = "print"
+    isHTML = true
+    noUgly = true
+    permalinkable = true
+    path = "print"

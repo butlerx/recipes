@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language }}">
+<html
+  lang="{{ .Site.Language }}"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
   {{- partial "head.html" . -}}
   <body>
     {{ partial "nav.html" . }}
@@ -8,7 +11,7 @@
     {{ if isset .Params "tags" }}
       {{ $tagsLen := len .Params.tags }}
       {{ if gt $tagsLen 0 }}
-        <div class=taglist>
+        <div class=tag-list>
           See related:</br>
           {{ range $k, $v := .Params.tags }}
             <a href="{{ printf "tags/%s" (. | urlize | lower) | absURL }}">{{ . | title }}</a>

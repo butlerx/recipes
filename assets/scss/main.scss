@@ -1,22 +1,27 @@
+@use "tags";
+@use "print";
+@use "stats";
+
+$background-clour: #151515;
+
 body {
-  background: #151515;
+  background: $background-clour;
   color: navajowhite;
   max-width: 850px;
   margin: auto;
   padding: 0 16px;
-  margin-bottom: 500px;
   scrollbar-color: gray #151515;
   font-family: sans-serif;
 }
 
 ::-webkit-scrollbar {
   width: 0.66vw;
-  background-color: #151515;
-}
+  background-color: $background-clour;
 
-::-webkit-scrollbar-thumb {
-  background-color: gray;
-  border-radius: 5px;
+  &-thumb {
+    background-color: gray;
+    border-radius: 5px;
+  }
 }
 
 a {
@@ -24,12 +29,6 @@ a {
 
   &:visited {
     color: darkgoldenrod;
-  }
-}
-
-.tagcloud {
-  a {
-    color: darkorange;
   }
 }
 
@@ -60,12 +59,6 @@ code {
   color: lime;
 }
 
-.taglist {
-  text-align: center;
-  margin-bottom: 2em;
-  margin-top: 2em;
-}
-
 @media (pointer: coarse) {
   li > a {
     display: inline-block;
@@ -73,30 +66,12 @@ code {
   }
 }
 
-@media print {
-  a[href] {
-    text-decoration: none;
-    color: black;
-  }
-
-  footer,
-  .taglist {
-    display: none;
-  }
-
-  body {
-    margin: 0;
-  }
-}
-
-@media (min-width: 55em) {
-  #artlist {
+.article-list {
+  @media (min-width: 55em) {
     column-count: 2;
   }
-}
 
-@media (min-width: 100em) {
-  #artlist {
+  @media (min-width: 100em) {
     column-count: 3;
   }
 }
@@ -107,36 +82,17 @@ footer {
   clear: both;
   border-radius: 20px;
   margin: auto;
-}
 
-nav li,
-footer li {
-  display: inline-block;
-  list-style: none;
-  border-radius: 10px;
-  padding: 0.5em;
-  max-width: 7em;
-}
+  li {
+    display: inline-block;
+    list-style: none;
+    border-radius: 10px;
+    padding: 0.5em;
+    max-width: 7em;
+  }
 
-nav ul,
-footer ul,
-#taglist {
-  padding: 0;
-  margin: 0.5em;
-}
-
-.stats-table {
-  display: flex;
-  flex-flow: row wrap;
-  border: solid 1px #dbdbdb;
-
-  .stat {
-    text-align: center;
-    margin: 1em 0.5em;
-    flex-grow: 1;
-
-    p {
-      margin: 0 0 1em;
-    }
+  ul {
+    padding: 0;
+    margin: 0.5em;
   }
 }

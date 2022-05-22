@@ -3,6 +3,7 @@
     {{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}
   </title>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   {{- $image := resources.Get "images/icon.png" -}}
   {{- $favicon := $image.Resize "32x32" -}}
   <link
@@ -23,12 +24,30 @@
     type="text/css"
     integrity="{{ $style.Data.Integrity }}"
   />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="keywords" content="{{ .Params.tags }}" />
-  <link
-    rel="alternate"
-    type="application/rss+xml"
-    title="{{ .Site.Title }} RSS"
-    href="/rss.xml"
-  />
+  {{- with .Params.tags -}}
+    <meta name="keywords" content="{{ delimit . "," }}">
+  {{- end -}}
+  {{- with .Site.Params.description -}}
+    <meta name="description" content="{{ . }}" />
+  {{- end -}}
+  {{ with  .OutputFormats.Get "rss" -}}
+    <link
+      rel="{{ .Rel }}"
+      type="{{ .MediaType.Type }}"
+      title="{{ $.Site.Title }} RSS "
+      href="{{ .Permalink }}"
+     />
+  {{ end -}}
+
+  <base href="{{ .Site.BaseURL }}">
+  <link rel="canonical" href="{{ .Permalink | absURL }}">
+  <link rel="manifest" href="{{ absURL "manifest.json" }}" />
+  <meta name="theme-color" content="{{ .Site.Params.theme }}" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="{{ .Site.Params.theme }}" />
+  <meta name="mobile-web-app-capable" content="yes" />
+
+  {{- with .Site.Author.name -}}
+    <meta name="author" content="{{ . }}" />
+  {{- end -}}
 </head>

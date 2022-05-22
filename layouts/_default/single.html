@@ -5,7 +5,7 @@
 {{ if isset .Params "recipe_image" }}
   <figure class="image">
     <img
-      src="{{ urlize .Params.recipe_image }}"
+      src="{{ .Params.recipe_image }}"
       alt="Recipe image"
       style="border-radius: 3%; width: auto; max-height: 512px;"
     />
