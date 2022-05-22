@@ -1,0 +1,142 @@
+body {
+  background: #151515;
+  color: navajowhite;
+  max-width: 850px;
+  margin: auto;
+  padding: 0 16px;
+  margin-bottom: 500px;
+  scrollbar-color: gray #151515;
+  font-family: sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 0.66vw;
+  background-color: #151515;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  border-radius: 5px;
+}
+
+a {
+  color: gold;
+
+  &:visited {
+    color: darkgoldenrod;
+  }
+}
+
+.tagcloud {
+  a {
+    color: darkorange;
+  }
+}
+
+h1 {
+  border-style: solid;
+  border-width: 0 0 2px;
+  text-align: center;
+}
+
+h2 {
+  color: tomato;
+}
+
+footer {
+  margin: 3em;
+  text-align: center;
+}
+
+img {
+  max-width: 90%;
+  max-height: 400px;
+  margin: auto;
+  display: block;
+}
+
+code {
+  overflow-wrap: break-word;
+  color: lime;
+}
+
+.taglist {
+  text-align: center;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+@media (pointer: coarse) {
+  li > a {
+    display: inline-block;
+    padding: 0.2em 0;
+  }
+}
+
+@media print {
+  a[href] {
+    text-decoration: none;
+    color: black;
+  }
+
+  footer,
+  .taglist {
+    display: none;
+  }
+
+  body {
+    margin: 0;
+  }
+}
+
+@media (min-width: 55em) {
+  #artlist {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 100em) {
+  #artlist {
+    column-count: 3;
+  }
+}
+
+nav,
+footer {
+  text-align: center;
+  clear: both;
+  border-radius: 20px;
+  margin: auto;
+}
+
+nav li,
+footer li {
+  display: inline-block;
+  list-style: none;
+  border-radius: 10px;
+  padding: 0.5em;
+  max-width: 7em;
+}
+
+nav ul,
+footer ul,
+#taglist {
+  padding: 0;
+  margin: 0.5em;
+}
+
+.stats-table {
+  display: flex;
+  flex-flow: row wrap;
+  border: solid 1px #dbdbdb;
+
+  .stat {
+    text-align: center;
+    margin: 1em 0.5em;
+    flex-grow: 1;
+
+    p {
+      margin: 0 0 1em;
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "Title for your recipe"
+title: "{{ replace .Name "-" " " | title }}"
 author: {{ .Site.Params.front.defaultAuthor | default "User" }}
 recipe_image: {{ .Site.Params.front.defaultImage | default "images/defaultImage.png" }} #The image for your recipe
 image_width: {{ .Site.Params.front.defaultImageWidth | default 512 }}
@@ -18,7 +18,6 @@ calories: 300 #in kcal #can be BLANK
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
 ---
 
-
 ## Ingredients
 
 #### Ingredient Subheading
@@ -28,7 +27,6 @@ calories: 300 #in kcal #can be BLANK
 - Third Ingredient
 - Fourth Ingredient
 - Fifth Ingredient
-
 
 ## Directions
 

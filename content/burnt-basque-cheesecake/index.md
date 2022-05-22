@@ -28,7 +28,7 @@ remove chill before serving.
 
 ## Special Equipment
 
-- A 10"-diameter springform pan
+- A 10"(diameter) springform pan
 
 ## Directions
 

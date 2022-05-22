@@ -1,13 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.Language }}">
   {{- partial "head.html" . -}}
   <body>
-    {{- partial "alert.html" -}}
-    {{- partial "header.html" . -}}
-    {{- partial "searchResults.html" -}}
-    <div id="content">
-      {{- block "main" . }}{{ end }}
-    </div>
-    {{- partial "script.html" . -}}
+    {{ partial "nav.html" . }}
+    <main>
+    {{- block "main" . }}{{ end }}
+    {{ if isset .Params "tags" }}
+      {{ $tagsLen := len .Params.tags }}
+      {{ if gt $tagsLen 0 }}
+        <div class=taglist>
+          See related:</br>
+          {{ range $k, $v := .Params.tags }}
+            <a href="{{ printf "tags/%s" (. | urlize | lower) | absURL }}">{{ . | title }}</a>
+            {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+    </main>
+    {{ partial "footer.html" . }}
   </body>
 </html>

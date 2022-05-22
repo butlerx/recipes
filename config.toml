@@ -29,19 +29,16 @@ posts = "/:filename"
 
   [[menu.main]]
     name = "Home"
-    pre = "fas fa-home"
     url = "/"
     weight = 1
 
   [[menu.main]]
     name = "Categories"
-    pre = "fas fa-tags"
     url = "/tags/"
     weight = 2
 
 [params.front]
 defaultAuthor = "Cian Butler"
-
 
 [params.logo]
 fileName = "/images/logo.webp"
@@ -52,7 +49,7 @@ width = 200
 fileName = "/images/icon.png"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   page = ["HTML", "PRINT"]
 
 [outputFormats]
