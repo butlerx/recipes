@@ -1,4 +1,23 @@
-Prepare the night before you plan to Bake
+---
+title: Overnight Oat Sourdough
+date: 2022-05-22
+tags:
+  - sourdough
+  - bread
+servings: 2
+prep_increment: Hours
+prep_time: 16
+cook_time: 30
+recipe_image: IMG_20200316_190211.jpg
+---
+
+Easy to make and super soft and tasty sourdough loaf
+
+**Note:** Prepare the night before you plan to Bake
+
+## Ingredients
+
+## Directions
 
 - Soak 100g of porridge oats in 180g of water, leave in the fridge
 - Make an autolyse from 400g bread flour and 275g of water.

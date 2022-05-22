@@ -11,12 +11,6 @@ author = "Cian Butler"
 description = "Random recipes i've collected and made"
 keywords = "recipes"
 dateFormat = "Jan 2, 2006"
-codePenUser = "butlerx"
-katex = true
-hideHeaderLinks = false
-search = true
-showThemeSwitcher = true
-moveFooterToHeader = false
 
 [permalinks]
 posts = "/:filename"
@@ -36,17 +30,6 @@ posts = "/:filename"
     name = "Categories"
     url = "/tags/"
     weight = 2
-
-[params.front]
-defaultAuthor = "Cian Butler"
-
-[params.logo]
-fileName = "/images/logo.webp"
-height = 50
-width = 200
-
-[params.favicon]
-fileName = "/images/icon.png"
 
 [outputs]
   home = ["HTML", "RSS"]

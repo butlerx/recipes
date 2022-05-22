@@ -2,11 +2,15 @@
 <header>
   <h1>{{ .Title }}</h1>
 </header>
-<figure class="image">
-  <img
-    src="{{ urlize .Params.recipe_image }}"
-    alt="Recipe image"
-    style="border-radius: 3%; width: auto; max-height: 512px;"
-  />
-</figure>
-{{ partial "stats" . }} {{ .Content }} {{ end }}
+{{ if isset .Params "recipe_image" }}
+  <figure class="image">
+    <img
+      src="{{ urlize .Params.recipe_image }}"
+      alt="Recipe image"
+      style="border-radius: 3%; width: auto; max-height: 512px;"
+    />
+  </figure>
+{{ end }}
+{{ partial "stats" . }}
+{{ .Content }}
+{{ end }}

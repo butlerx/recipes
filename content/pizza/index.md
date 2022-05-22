@@ -5,6 +5,7 @@ tags:
   - sourdough
   - dough
   - dinner
+  - Italian
 servings: 4
 prep_increment: hours
 prep_time: 24

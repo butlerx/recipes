@@ -9,6 +9,7 @@ servings: 2
 prep_time: 20
 prep_increment: hours
 cook_time: 40
+recipe_image: IMG_20210925_122921.jpg
 ---
 
 ## Ingredients

@@ -1,7 +1,7 @@
 ---
 title: Burnt Basque Cheesecake
 date: 2021-05-18
-recipe_image: ./slice.jpg
+recipe_image: slice.jpg
 tags:
   - cheesecake
   - dessert

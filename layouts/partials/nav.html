@@ -1,7 +1,10 @@
 <nav role="navigation" aria-label="main navigation">
     <ul>
         {{- $sec := .Page.Section -}}
-        {{- $file := .File.TranslationBaseName -}}
+        {{- $file := "" -}}
+        {{- with .File -}}
+            {{- $file := .TranslationBaseName -}}
+        {{- end -}}
         {{ range.Site.Menus.main -}}
             {{- $base := path.Base .URL -}}
             <a

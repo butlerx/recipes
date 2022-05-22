@@ -1,16 +1,11 @@
 ---
-draft: true
-title: Sourdough Pancakes
-recipe_image: EFFECTS.jpg
-date: 2022-05-22T16:26:52+01:00
+title: Sourdough Starter
+date: 2022-05-22
 tags:
   - sourdough
-  - breakfast
-servings: 4
 prep_time: 15 # in minutes
-cook: true # If we are cooking this, leave true, if we are cooling set to false
-cook_increment: minutes # set to minutes or hours
-cook_time: 8 # in minutes or hours
+cook: false
+draft: true
 ---
 
 ## Ingredients
