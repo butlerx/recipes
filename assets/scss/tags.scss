@@ -1,6 +1,8 @@
-.tag-cloud {
+@use "colours";
+
+#tag-cloud {
   a {
-    color: darkorange;
+    color: colours.$orange;
   }
 }
 

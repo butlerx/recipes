@@ -1,34 +1,33 @@
-@use "tags";
+@use "colours";
 @use "print";
 @use "stats";
-
-$background-clour: #151515;
+@use "tags";
 
 body {
-  background: $background-clour;
-  color: navajowhite;
-  max-width: 850px;
+  background: colours.$black;
+  color: colours.$white;
+  max-width: 54em;
   margin: auto;
-  padding: 0 16px;
-  scrollbar-color: gray #151515;
+  padding: 0 2em;
+  scrollbar-color: colours.$grey #151515;
   font-family: sans-serif;
 }
 
 ::-webkit-scrollbar {
   width: 0.66vw;
-  background-color: $background-clour;
+  background-color: colours.$black;
 
   &-thumb {
-    background-color: gray;
-    border-radius: 5px;
+    background-color: colours.$grey;
+    border-radius: 0.4em;
   }
 }
 
 a {
-  color: gold;
+  color: colours.$gold;
 
   &:visited {
-    color: darkgoldenrod;
+    color: colours.$gold-dark;
   }
 }
 
@@ -39,7 +38,7 @@ h1 {
 }
 
 h2 {
-  color: tomato;
+  color: colours.$red;
 }
 
 footer {
@@ -49,14 +48,14 @@ footer {
 
 img {
   max-width: 90%;
-  max-height: 400px;
+  max-height: 25em;
   margin: auto;
   display: block;
 }
 
 code {
   overflow-wrap: break-word;
-  color: lime;
+  color: colours.$green;
 }
 
 @media (pointer: coarse) {
@@ -80,13 +79,13 @@ nav,
 footer {
   text-align: center;
   clear: both;
-  border-radius: 20px;
+  border-radius: 1.25em;
   margin: auto;
 
   li {
     display: inline-block;
     list-style: none;
-    border-radius: 10px;
+    border-radius: 0.6em;
     padding: 0.5em;
     max-width: 7em;
   }
