@@ -32,12 +32,12 @@ remove chill before serving.
 
 ## Directions
 
-1. Place a rack in middle of oven; preheat to 400°. Butter pan, then line with 2
-   overlapping 16x12" sheets of parchment, making sure parchment comes at least
-   2" above top of pan on all sides. Because the parchment needs to be pleated
-   and creased in some areas to fit in pan, you won’t end up with a clean,
-   smooth outer edge to the cake; that’s okay! Place pan on a rimmed baking
-   sheet.
+1. Place a rack in middle of oven; preheat to 200°C. Butter pan, then line with
+   2 overlapping 16x12" sheets of parchment, making sure parchment comes at
+   least 2" above top of pan on all sides. Because the parchment needs to be
+   pleated and creased in some areas to fit in pan, you won’t end up with a
+   clean, smooth outer edge to the cake; that’s okay! Place pan on a rimmed
+   baking sheet.
 2. Beat cream cheese and sugar in the bowl of a stand mixer fitted with the
    paddle attachment on medium-low speed, scraping down sides of bowl, until
    very smooth, no lumps remain, and sugar has dissolved, about 2 minutes.
