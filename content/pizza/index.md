@@ -10,6 +10,7 @@ servings: 4
 prep_increment: hours
 prep_time: 24
 cook_time: 2
+recipe_image: IMG_20210919_192019.jpg
 ---
 
 Sourdough Pizza. Toppings can be what ever you want. Customise as you need.

@@ -8,7 +8,7 @@ servings: 2
 prep_increment: Hours
 prep_time: 16
 cook_time: 30
-recipe_image: IMG_20200316_190211.jpg
+recipe_image:
 ---
 
 Easy to make and super soft and tasty sourdough loaf
