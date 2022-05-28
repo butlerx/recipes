@@ -16,13 +16,14 @@
     type="image/x-icon"
     href="{{ $favicon.RelPermalink }}"
   />
-  {{ $options := dict "transpiler" "dartsass" "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" true }}
-  {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+  {{- $options := dict "transpiler" "dartsass" "targetPath" "styles.css" "outputStyle" "compressed" }}
+  {{- $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint "sha512" }}
   <link
     rel="stylesheet"
     href="{{ $style.RelPermalink }}"
     type="text/css"
     integrity="{{ $style.Data.Integrity }}"
+    crossorigin="anonymous"
   />
   {{- with .Params.tags -}}
     <meta name="keywords" content="{{ delimit . "," }}">
