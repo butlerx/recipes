@@ -14,16 +14,17 @@ SASS := .cache/dart-sass-embedded_$(SASS_VERSION)
 PLATFORM := Linux-64bit
 
 PATH := $(PATH):$(SASS)
+BINS = $(HUGO) $(SASS)
 
 build: public  ## Build Site
-public: config.toml content $(HUGO) assets layouts
+public: $(BINS) config.toml content assets layouts
 	@echo "🍳 Generating site"
 	$(HUGO) --gc --minify -d $(DESTDIR)
 	echo "🧂 Optimizing images"
 	find $@ -not -path "*/static/*" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>'
 
 .PHONY: serve
-serve: $(HUGO)  ## Run development server in debug mode
+serve: $(BINS) ## Run development server in debug mode
 	@$(HUGO) server -D -w
 
 .PHONY: clean
@@ -39,7 +40,7 @@ lint: format ## Run scss linter
 	@echo "🍜 Testing SCSS"
 	@stylelint "assets/scss/**/*.{css,scss,sass}"
 
-$(HUGO): $(SASS)
+$(HUGO):
 	@echo "🤵 Getting Hugo"
 	wget -q -P tmp/ https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_extended_$(HUGO_VERSION)_$(PLATFORM).tar.gz
 	tar xf tmp/hugo_extended_$(HUGO_VERSION)_$(PLATFORM).tar.gz -C tmp/

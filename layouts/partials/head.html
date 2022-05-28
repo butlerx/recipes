@@ -48,6 +48,15 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="{{ .Site.Params.theme }}" />
   <meta name="mobile-web-app-capable" content="yes" />
 
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Recipe",
+      "image" : {{ apply .Params.images "absURL" "." }},
+      "name": "{{- if .Params.title -}} {{- .Params.title -}} {{- else -}} {{- .Site.Title }} {{- end -}}"
+    }
+  </script>
+
   {{- with .Site.Author.name -}}
     <meta name="author" content="{{ . }}" />
   {{- end -}}
