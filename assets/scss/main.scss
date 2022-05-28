@@ -75,12 +75,14 @@ code {
   }
 }
 
+nav {
+  margin: auto;
+}
+
 nav,
 footer {
   text-align: center;
   clear: both;
-  border-radius: 1.25em;
-  margin: auto;
 
   li {
     display: inline-block;
