@@ -1,8 +1,9 @@
 {{ define "main" }}
 <header>
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .Title | title }}</h1>
 </header>
-{{ if isset .Params "recipe_image" }}
+
+{{ if isset .Params "recipe_image" -}}
   <figure class="image">
     <img
       src="{{ .Permalink | absURL }}{{ .Params.recipe_image }}"
@@ -10,7 +11,10 @@
       style="border-radius: 3%; width: auto; max-height: 512px;"
     />
   </figure>
-{{ end }}
+{{ end -}}
+
 {{ partial "stats" . }}
+
 {{ .Content }}
+
 {{ end }}

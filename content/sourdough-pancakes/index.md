@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Sourdough Pancakes
 recipe_image: EFFECTS.jpg
 date: 2022-05-22T16:26:52+01:00
@@ -15,20 +14,23 @@ cook_time: 8 # in minutes or hours
 
 ## Ingredients
 
-#### Ingredient Subheading
-
-- First Ingredient
-- Second Ingredient [^1]
-- Third Ingredient
-- Fourth Ingredient
-- Fifth Ingredient
+- 60g butter
+- 2 eggs
+- 1 tsp Vanilla extract
+- 192g plain flour
+- 200ml milk
+- 80g starter
+- 2 tsp baking powder
 
 ## Directions
 
-1. Step One
-   1. Sub Step One
-1. Step Two
-1. Step Three
-1. Step Four
-1. Step Five
-1. Step Six
+1. mix milk, eggs and vanilla in one bowl.
+1. sift in dry ingredients into another bowl
+1. melt butter
+1. add starter to wet ingredients and mix
+1. whisk wet ingredients into dry ingredients until fully combined
+1. Stir melted butter into mixture
+1. Let proof fro 30 minutes
+1. cook on hot griddle
+   1. Flip the pancakes once many bubble have begun to form.
+   1. If you want to add fruit or chocolate that is best done before flipping
