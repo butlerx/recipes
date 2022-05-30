@@ -1,9 +1,9 @@
 ---
 draft: true
-title: "Pesto"
+title: 'Pesto'
 recipe_image:
 date: 2022-05-22T16:22:05+01:00
-tags: ["tag1", "tag2"]
+tags: ['tag1', 'tag2']
 servings: 4
 prep_time: 15 # in minutes
 cook: true # If we are cooking this, leave true, if we are cooling set to false
