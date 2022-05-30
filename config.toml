@@ -5,6 +5,7 @@ defaultcontentlanguage = "en"
 paginate = 20.0
 enableGitInfo = true
 sectionPagesMenu = "main"
+theme = recipes
 
 [author]
   name = "Cian Butler"
@@ -12,7 +13,7 @@ sectionPagesMenu = "main"
 
 [params]
   description = "Random recipes i've collected and made"
-  keywords = "recipes"
+  keywords = "recipes, cookbook"
   dateFormat = "Jan 2, 2006"
   theme = "#151515"
 

@@ -13,11 +13,24 @@ SASS_VERSION := 1.0.0-beta.7
 SASS := .cache/dart-sass-embedded_$(SASS_VERSION)
 PLATFORM := Linux-64bit
 
+THEME := $(shell awk -F\= '/theme/ {gsub(/"/,"",$$2);gsub(/ /, "", $$2);print $$2}' config.toml)
+THEME_DIR := themes/$(THEME)
+
 PATH := $(PATH):$(SASS)
-BINS = $(HUGO) $(SASS)
+BINS = $(HUGO) $(SASS) $(THEME_DIR)
+
+$(THEME_DIR):
+	@git submodule init
+	@git submodule sync
+	@git submodule update
+
+.PHONY: update
+update: $(BINS) ## Update themes and binaries
+	@echo "🛎 Updating Them"
+	git submodule update --remote --merge
 
 build: public  ## Build Site
-public: $(BINS) config.toml content assets layouts
+public: $(BINS) config.toml content
 	@echo "🍳 Generating site"
 	$(HUGO) --gc --minify -d $(DESTDIR)
 	echo "🧂 Optimizing images"
