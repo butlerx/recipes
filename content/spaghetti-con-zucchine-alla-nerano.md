@@ -1,9 +1,11 @@
 ---
 date: 2022-06-06T17:35:21+01:00
-modified: 2022-06-06T17:56:26+01:00
+modified: 2022-06-06T20:03:40+01:00
 title: Spaghetti con Zucchine alla Nerano
 servings: 4
 tags: [pasta, Italian]
+prep_time: 10
+cook_time: 30
 ---
 
 ## Ingredients 
