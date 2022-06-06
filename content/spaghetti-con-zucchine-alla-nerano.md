@@ -1,11 +1,9 @@
 ---
-created: 2022-06-06T17:35:21+01:00
-modified: 2022-06-06T17:38:46+01:00
+date: 2022-06-06T17:35:21+01:00
+modified: 2022-06-06T17:49:37+01:00
+title: Spaghetti con Zucchine alla Nerano
+servings: 4
 ---
-
-# Spaghetti con Zucchine alla Nerano
-
-SERVES 4
 
 ## Ingredients 
 - About 16fl oz sunflower oil or vegetable oil, or, if you choose, olive oil 
