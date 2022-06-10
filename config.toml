@@ -5,7 +5,7 @@ defaultcontentlanguage = "en"
 paginate = 20.0
 enableGitInfo = true
 sectionPagesMenu = "main"
-theme = recipes
+theme = "recipes"
 
 [author]
   name = "Cian Butler"
