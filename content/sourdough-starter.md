@@ -10,7 +10,7 @@ draft: true
 
 ## Ingredients
 
-#### Ingredient Subheading
+### Ingredient Subheading
 
 - First Ingredient
 - Second Ingredient [^1]

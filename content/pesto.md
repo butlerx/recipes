@@ -13,7 +13,7 @@ cook_time: 8 # in minutes or hours
 
 ## Ingredients
 
-#### Ingredient Subheading
+### Ingredient Subheading
 
 - First Ingredient
 - Second Ingredient [^1]

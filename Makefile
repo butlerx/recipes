@@ -13,24 +13,27 @@ SASS_VERSION := 1.55.0
 SASS := .cache/dart-sass-embedded_$(SASS_VERSION)
 PLATFORM := Linux-64bit
 
-PATH := $(PATH):$(SASS)
-BINS = $(HUGO) $(SASS) $(THEME_DIR)
+export PATH := $(PATH):$(PWD)/$(SASS)
+BINS = $(HUGO) $(SASS)
 
-.PHONY: update
-update: $(BINS) ## Update themes and binaries
-	@echo "🛎 Updating Them"
-	$(HUGO) mod get -u ./...
-
+.PHONY: build
 build: public  ## Build Site
 public: $(BINS) config.toml content
 	@echo "🍳 Generating site"
-	$(HUGO) --gc --minify -d $(DESTDIR)
+	$< --gc --minify -d $(DESTDIR)
 	echo "🧂 Optimizing images"
 	find $@ -not -path "*/static/*" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>'
 
+.PHONY: update
+update: $(BINS) ## Update themes and binaries
+	@echo "🛎 Updating Theme"
+	$(HUGO) mod get -u ./...
+	$(HUGO) mod tidy
+
 .PHONY: serve
 serve: $(BINS) ## Run development server in debug mode
-	@HUGO_MODULE_REPLACEMENTS="github.com/butlerx/hugo-recipes -> ../../hugo-recipes" $(HUGO) server -D -w
+	@HUGO_MODULE_REPLACEMENTS="github.com/butlerx/hugo-recipes -> ../../hugo-recipes" \
+		$(HUGO) server -D -w
 
 .PHONY: clean
 clean: ## Clean built site
@@ -41,9 +44,9 @@ clean: ## Clean built site
 format: ## Format Markdown files
 	@prettier --write .
 
-lint: format ## Run scss linter
-	@echo "🍜 Testing SCSS"
-	@stylelint "assets/scss/**/*.{css,scss,sass}"
+lint: format ## Run markdown linter
+	@echo "🍜 Testing Markdown"
+	@docker run -v $(PWD):/workdir ghcr.io/igorshubovych/markdownlint-cli:latest "content"
 
 $(HUGO):
 	@echo "🤵 Getting Hugo"

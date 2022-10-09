@@ -10,7 +10,7 @@ tags:
 
 ## Ingrediants
 
-#### Mushrooms
+### Mushrooms
 
 - 8 medium to large portobello mushrooms
 - 10 garlic cloves, peeled
@@ -22,14 +22,14 @@ tags:
 - 2 tbsp tomato paste
 - 400ml olive oil
 
-#### Butter Bean Mash
+### Butter Bean Mash
 
 - 1 tin of cooked large butter beans, drained (500g)
 - 1 tbsp lemon juice
 - 1 tbsp olive oil
 - flaked sea salt
 
-# Directions
+## Directions
 
 1. Preheat the oven to 150°C fan.
 2. Put all the ingredients for the mushrooms and 1 tablespoon of flaked salt

@@ -7,7 +7,6 @@ enableGitInfo = true
 sectionPagesMenu = "main"
 theme = ["github.com/butlerx/hugo-recipes"]
 
-
 [author]
   name = "Cian Butler"
   email = "butlerx@notthe.cloud"
