@@ -7,27 +7,19 @@ MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
 DESTDIR := public
-HUGO_VERSION := 0.96.0
+HUGO_VERSION := 0.104.2
 HUGO := .cache/hugo_$(HUGO_VERSION)
-SASS_VERSION := 1.0.0-beta.7
+SASS_VERSION := 1.55.0
 SASS := .cache/dart-sass-embedded_$(SASS_VERSION)
 PLATFORM := Linux-64bit
-
-THEME := $(shell awk -F\= '/theme/ {gsub(/"/,"",$$2);gsub(/ /, "", $$2);print $$2}' config.toml)
-THEME_DIR := themes/$(THEME)
 
 PATH := $(PATH):$(SASS)
 BINS = $(HUGO) $(SASS) $(THEME_DIR)
 
-$(THEME_DIR):
-	@git submodule init
-	@git submodule sync
-	@git submodule update
-
 .PHONY: update
 update: $(BINS) ## Update themes and binaries
 	@echo "🛎 Updating Them"
-	git submodule update --remote --merge
+	$(HUGO) mod get -u ./...
 
 build: public  ## Build Site
 public: $(BINS) config.toml content
@@ -38,7 +30,7 @@ public: $(BINS) config.toml content
 
 .PHONY: serve
 serve: $(BINS) ## Run development server in debug mode
-	@$(HUGO) server -D -w
+	@HUGO_MODULE_REPLACEMENTS="github.com/butlerx/hugo-recipes -> ../../hugo-recipes" $(HUGO) server -D -w
 
 .PHONY: clean
 clean: ## Clean built site
