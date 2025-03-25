@@ -1,13 +1,12 @@
 ---
 title: 'Burrata Salad'
 recipe_image: image4.png
-date: 2020-09-17
+date: Wednesday, September 16th 2020, 11:00:00 pm
 author: Tom Mortimer
-tags:
-  - salad
-  - starter
+tags: [salad, starter]
 servings: 2
 prep_time: 5
+date_modified: Tuesday, March 25th 2025, 9:39:21 am
 ---
 
 Life is complete.

@@ -31,13 +31,9 @@ Vegetarian Black bean chilli best served in tacos.
 ## Directions
 
 1. Soak the chilli in 100 ml boiling water for 10 minutes.
-1. Heat oil in a saucepan at medium heat, add the garlic and red onion and saute
-   till softened.
-1. Put the chilli and its soaking water in a blender with tomatoes blitz till
-   smooth.
-1. Add black beans to the onion and garlic, with the blended chilli and tomatoes
-   and simmer for 5 minutes.
-1. Grill the sweetcorn for 2 - 3 minutes until tender.
-1. Slice the kernels of the cod.
-1. Build tacos with corn, black beans, and avocado and garnish with coriander
-   and lime.
+2. Heat oil in a saucepan at medium heat, add the garlic and red onion and saute till softened.
+3. Put the chilli and its soaking water in a blender with tomatoes blitz till smooth.
+4. Add black beans to the onion and garlic, with the blended chilli and tomatoes and simmer for 5 minutes.
+5. Grill the sweetcorn for 2 - 3 minutes until tender.
+6. Slice the kernels of the cod.
+7. Build tacos with corn, black beans, and avocado and garnish with coriander and lime.

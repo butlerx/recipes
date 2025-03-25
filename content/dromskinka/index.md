@@ -22,8 +22,7 @@ cook_time: 45-60
 2.  Pour wine over so that it almost covers the ham.
 3.  Soak for half a day or so.
 4.  Add the spices.
-5.  Pour over cream so that the ham is covered (you were a bit cheap on the
-    wine, right?).
+5.  Pour over cream so that the ham is covered (you were a bit cheap on the wine, right?).
 6.  Execute in oven at ~200C for 45-60 mins.
 
 Enjoy with stomped or riced potatoes

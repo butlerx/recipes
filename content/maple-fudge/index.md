@@ -27,16 +27,13 @@ Requires: Cooling rack, 8" Square dish, Candy Thermometer
 
 ## Directions
 
-1.  Grease side of saucepan (you\'ll want high sides for this) and a wide, heat
-    proof bowl. Line 8\" square dish with parchment paper.
+1.  Grease side of saucepan (you\'ll want high sides for this) and a wide, heat proof bowl. Line 8\" square dish with
+    parchment paper.
 2.  Add Sugar, Cream, Maple Syrup and a pinch of Baking Soda to saucepan.
-3.  Cook on medium, stirring constantly, until boiling. It should foam up high
-    in the pan, if not add in rest of Baking Soda
-4.  Boil without stirring until thermometer reads 238F. Should take 7-10
-    minutes.
+3.  Cook on medium, stirring constantly, until boiling. It should foam up high in the pan, if not add in rest of Baking
+    Soda
+4.  Boil without stirring until thermometer reads 238F. Should take 7-10 minutes.
 5.  Pour boiling mix into bowl. DO NOT SCRAPE PAN.
 6.  Let cool to 100F. 1-2 hours
-7.  Beat in vanilla until thick and not glossy. A stand mixer is an arm saver.
-    6-9 minutes
-8.  Scrape into parchment paper lined dish and smooth the top. Cool on rack then
-    turn out and cut into squares
+7.  Beat in vanilla until thick and not glossy. A stand mixer is an arm saver. 6-9 minutes
+8.  Scrape into parchment paper lined dish and smooth the top. Cool on rack then turn out and cut into squares

@@ -39,25 +39,19 @@ tags:
 
 #### Preparing Chettinad Spice Blend:
 
-1.  Heat the pressure cooker in SAUTE mode. Add all the whole spices to be dry
-    roasted. Roast them for about 30 seconds until they impart their aroma. Add
-    ginger, garlic and grated coconut and saute for another 30 seconds.
-2.  Press CANCEL to turn off the pressure cooker. Transfer all the ingredients
-    in the pressure cooker to a blender. Grind to a powder or if needed add some
-    water to make a paste.
+1.  Heat the pressure cooker in SAUTE mode. Add all the whole spices to be dry roasted. Roast them for about 30 seconds
+    until they impart their aroma. Add ginger, garlic and grated coconut and saute for another 30 seconds.
+2.  Press CANCEL to turn off the pressure cooker. Transfer all the ingredients in the pressure cooker to a blender.
+    Grind to a powder or if needed add some water to make a paste.
 
 #### Preparing Chettinad Chicken Curry:
 
-1.  Start the pressure cooker in SAUTE mode and heat oil in it. Add the bay leaf
-    and curry leaves. Saute for 30 seconds.
+1.  Start the pressure cooker in SAUTE mode and heat oil in it. Add the bay leaf and curry leaves. Saute for 30 seconds.
 2.  Add the diced onion and saute for about 3 minutes.
 3.  Then add the diced tomatoes, ground spices and salt. Saute for 2 mins.
 
-4.  Add chicken pieces and saute for 3 mins. This is an important step which
-    infuses the spices in the chicken.
-5.  Add water for cooking. Press CANCEL and close the pressure cooker lid with
-    vent in sealing position.
-6.  Change the setting to MANUAL or pressure cook mode on high pressure for 5
-    minutes.
+4.  Add chicken pieces and saute for 3 mins. This is an important step which infuses the spices in the chicken.
+5.  Add water for cooking. Press CANCEL and close the pressure cooker lid with vent in sealing position.
+6.  Change the setting to MANUAL or pressure cook mode on high pressure for 5 minutes.
 7.  When the pressure cooker beeps, do a quick pressure release.
 8.  Garnish with cilantro and Chicken Chettinad is ready to be served.

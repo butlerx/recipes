@@ -7,9 +7,8 @@ servings: 4
 author: Cara Wills
 ---
 
-There are so many Slimming World recipes that most members rave about and one I
-have really wanted to try was the Taco Fries recipe. I've never had taco fries
-before so I had no expectations but it turned out to be so easy and very tasty
+There are so many Slimming World recipes that most members rave about and one I have really wanted to try was the Taco
+Fries recipe. I've never had taco fries before so I had no expectations but it turned out to be so easy and very tasty
 too.
 
 ## Ingredients;
@@ -39,26 +38,20 @@ Mix all seasoning ingredients together & leave aside:
 
 ## Directions:
 
-- Par-boil the lasagne sheets for a couple of mins till they start to soften.
-  Cut them into triangle nacho shapes.
-- Preheat the oven to 200 and line the oven tray with baking paper, lay nachos
-  out and spray with Frylight, bake for approx. 10mins, turning half way
-  throughout and re-spray, until golden brown.
-- Add chips to the oven, sprayed with Frylight and seasoned to taste, bake for
-  30-40mins till golden.
+- Par-boil the lasagne sheets for a couple of mins till they start to soften. Cut them into triangle nacho shapes.
+- Preheat the oven to 200 and line the oven tray with baking paper, lay nachos out and spray with Frylight, bake for
+  approx. 10mins, turning half way throughout and re-spray, until golden brown.
+- Add chips to the oven, sprayed with Frylight and seasoned to taste, bake for 30-40mins till golden.
 - Fry the onion and pepper in Frylight until soften.
 - Add the beef and fry until lightly browned.
-- Add the spice mix and stir well, add Worchester sauce and crumble in beef
-  stock
-- Add the tin of tomatoes and stir well, adding a little water if sauce looks
-  dry.
+- Add the spice mix and stir well, add Worchester sauce and crumble in beef stock
+- Add the tin of tomatoes and stir well, adding a little water if sauce looks dry.
 - Simmer for 20 mins.
 - Add 80g reduced fat red cheddar, grated
 
 #### Taco Sauce:
 
-Mix all the ingredients well until smooth and combined. Use more or less water
-depending on your own taste:
+Mix all the ingredients well until smooth and combined. Use more or less water depending on your own taste:
 
 - 3 tablespoons of extra light mayo
 - 3 tablespoons of fat free natural yogurt
@@ -71,5 +64,4 @@ depending on your own taste:
 
 Take a bowl/plate.
 
-Layer chips first, then mince sauce, then taco sauce, then nachos and then
-cheese and voila!
+Layer chips first, then mince sauce, then taco sauce, then nachos and then cheese and voila!

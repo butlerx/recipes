@@ -6,10 +6,9 @@ tags:
   - main
 ---
 
-This was my moms way of getting me and my brothers to eat veggies growing up,
-and it worked. I loved this stew. My wife does her own spin with fresher
-veggies, homemade sauce and home smoked pork. but the base, easy to prepare
-method is a quick and easy way to have a LOT of food around.
+This was my moms way of getting me and my brothers to eat veggies growing up, and it worked. I loved this stew. My wife
+does her own spin with fresher veggies, homemade sauce and home smoked pork. but the base, easy to prepare method is a
+quick and easy way to have a LOT of food around.
 
 ## Ingredients
 

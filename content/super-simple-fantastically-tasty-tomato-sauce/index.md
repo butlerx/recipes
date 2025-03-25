@@ -22,18 +22,15 @@ Ease of cooking: Can you throw ingredients into a pot?
 
 ## Directions
 
-1.  Heat the olive oil (or fire your spray) in a pan, add the garlic clove and
-    rosemary, then gently fry for 1 min. Savour the smell, it\'s divine.
-2.  Tip in the chopped tomatoes, vegetable stock powder, tomato purée and syrup
-    (or sweetener), then bring to the boil.
-3.  Reduce to low and let it simmer uncovered for at least 15 minutes, stirring
-    occasionally. What you want to see here is a good reduction of liquid,
-    really bring out all the extra flavours. To finish, tear a few basil leaves,
-    then stir into the sauce.
-4.  Get yourself a hand mixer or food processor and chuck everything in. Blitz
-    it until you\'ve got a lovely smooth texture.
+1.  Heat the olive oil (or fire your spray) in a pan, add the garlic clove and rosemary, then gently fry for 1 min.
+    Savour the smell, it\'s divine.
+2.  Tip in the chopped tomatoes, vegetable stock powder, tomato purée and syrup (or sweetener), then bring to the boil.
+3.  Reduce to low and let it simmer uncovered for at least 15 minutes, stirring occasionally. What you want to see here
+    is a good reduction of liquid, really bring out all the extra flavours. To finish, tear a few basil leaves, then
+    stir into the sauce.
+4.  Get yourself a hand mixer or food processor and chuck everything in. Blitz it until you\'ve got a lovely smooth
+    texture.
 
-From here you\'ve got a lovely, simple and versatile tomato sauce that\'s
-reasonably healthy and a cinch to make. I do a triple recipe about once a week,
-store it in the fridge and bring it out for pizza toast, bolognese, pizzas,
-pasta bakes, etc
+From here you\'ve got a lovely, simple and versatile tomato sauce that\'s reasonably healthy and a cinch to make. I do a
+triple recipe about once a week, store it in the fridge and bring it out for pizza toast, bolognese, pizzas, pasta
+bakes, etc

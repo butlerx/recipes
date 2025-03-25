@@ -10,8 +10,7 @@ prep_time: 15 # in minutes
 cook_time: 35 # in minutes or hours
 ---
 
-This has been passed down for generations. It is something that we put on our
-table as a kid. Like salt and pepper.
+This has been passed down for generations. It is something that we put on our table as a kid. Like salt and pepper.
 
 Makes 6-8 Pints
 
@@ -31,12 +30,9 @@ Makes 6-8 Pints
 
 1.  In a large pot chop up the tomato and peppers into large chunks.
 2.  Chop the onion into thin strings.
-3.  Cook on medium for about 30 min. After 30 min add the rest of the
-    ingredients and bring to a boil for 5 min.
+3.  Cook on medium for about 30 min. After 30 min add the rest of the ingredients and bring to a boil for 5 min.
 
-You can or store as you would, it should be good for a couple years if you wet
-bath/seal them.
+You can or store as you would, it should be good for a couple years if you wet bath/seal them.
 
-If you are doing small batch fridge pickling(half/quarter recipe), it is good
-for 3-4 months. The pickles will be ready in 2 - 3 weeks. The longer you leave
-them the better they get.
+If you are doing small batch fridge pickling(half/quarter recipe), it is good for 3-4 months. The pickles will be ready
+in 2 - 3 weeks. The longer you leave them the better they get.

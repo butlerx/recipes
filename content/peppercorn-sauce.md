@@ -1,5 +1,7 @@
 ---
-title: Peppercorn Sauce
+title: Green Peppercorn Sauce
+date: Tuesday, March 25th 2025, 9:47:28 am
+date_modified: Tuesday, March 25th 2025, 9:49:05 am
 ---
 
 ## Ingredients
@@ -14,13 +16,11 @@ title: Peppercorn Sauce
 
 ## Method
 
-1.  Put the butter in a large, high-sided frying pan, and fry the shallots and
-    peppercorns over a medium heat for 5 mins, until the shallots have softened
-    but not browned.
-1.  Add the brandy and cook until it has reduced away to almost nothing.
-1.  Pour the wine into the pan, turn up the heat and boil rapidly until reduced
-    by half.
-1.  Add the stock and reduce again, by two-thirds (approximately 5 minues)
-1.  Blend the onions.
-1.  Stir the cream into the sauce and allow it to thicken slightly.
-1.  Check for seasoning
+1.  Put the butter in a large, high-sided frying pan, and fry the shallots and peppercorns over medium heat for 5 mins,
+    until the shallots have softened but not browned.
+2.  Add the brandy and cook until it has reduced to almost nothing.
+3.  Pour the wine into the pan, turn up the heat and boil rapidly until reduced by half.
+4.  Add the stock and reduce again, by two-thirds (approximately 5 minutes)
+5.  Blend the onions.
+6.  Stir the cream into the sauce and allow it to thicken slightly.
+7.  Check for seasoning

@@ -9,9 +9,8 @@ servings: 1
 cook_time: 4
 ---
 
-This is brewed with a regular v60 setup. You want the coffee ground slightly
-finer than normal v60, similar to aeropress. The Water to coffee ratio will be
-15.75:1
+This is brewed with a regular v60 setup. You want the coffee ground slightly finer than normal v60, similar to
+aeropress. The Water to coffee ratio will be 15.75:1
 
 ## Ingredients
 
@@ -26,6 +25,6 @@ finer than normal v60, similar to aeropress. The Water to coffee ratio will be
 1. Add you coffee grounds into the rinsed filter
 1. Add 40g of hot water. Allow the coffee a 40 seconds bloom.
 1. Add 100g of water.
-1. At the 1 minute 30 mark  add another 100g of water so the toal weight is 240g.
+1. At the 1 minute 30 mark add another 100g of water so the toal weight is 240g.
 
 To serve pour the mix into another glass vesel. It can be served over Ice if desired.

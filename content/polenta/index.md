@@ -20,11 +20,9 @@ To make it you need:
 - Some meat
 - Cheese (a ton of it too)
 
-You basically boil the cornmeal until it thickens, the one you normally buy only
-takes a few minutes. I've found it in Fallon & Byrne and in the Asian Market
+You basically boil the cornmeal until it thickens, the one you normally buy only takes a few minutes. I've found it in
+Fallon & Byrne and in the Asian Market
 
-I love it because it reminds me of home and of my mom making it for me during it
-the winter 😊
+I love it because it reminds me of home and of my mom making it for me during it the winter 😊
 
-[Add-on Recipe](https://cooking.nytimes.com/recipes/1016084-creamy-polenta-with-mushrooms)
-from Stephane Dudzinski:
+[Add-on Recipe](https://cooking.nytimes.com/recipes/1016084-creamy-polenta-with-mushrooms) from Stephane Dudzinski:

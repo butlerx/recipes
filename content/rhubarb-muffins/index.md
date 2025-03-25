@@ -30,10 +30,10 @@ Rhubarb muffins, made with sourdough.
 ## Directions
 
 1. Preheat oven 180 C degrees.
-1. combine sugar & butter.
-1. Add Coffee, egg, sourdough starter, rhubarb, and mix.
-1. Sift flour, baking soda, cinnamon and nutmeg.
-1. Fold all Ingredients together
-1. Fill greased or lined muffin cups 1/2 to 3/4 full
-1. Bake for about 20 minutes.
-1. Let cool on wire rack.
+2. combine sugar & butter.
+3. Add Coffee, egg, sourdough starter, rhubarb, and mix.
+4. Sift flour, baking soda, cinnamon and nutmeg.
+5. Fold all Ingredients together
+6. Fill greased or lined muffin cups 1/2 to 3/4 full
+7. Bake for about 20 minutes.
+8. Let cool on wire rack.

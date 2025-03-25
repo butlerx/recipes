@@ -31,8 +31,7 @@ make build
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check
-[issues page](https://github.com/butlerx/foodz/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
+Feel free to check [issues page](https://github.com/butlerx/foodz/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 
 ## Show your support
 
@@ -42,5 +41,4 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [butlerx <butlerx@notthe.cloud>](https://github.com/butlerx).
 
-This project is [MIT](https://github.com/butlerx/foodz/blob/master/LICENSE)
-licensed.
+This project is [MIT](https://github.com/butlerx/foodz/blob/master/LICENSE) licensed.

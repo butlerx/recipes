@@ -2,30 +2,28 @@
 title: Beef & Broccoli
 recipe_image: image36.jpg
 author: Jason Wei
-date: 2021-10-22
-tags:
-  - main
+date: Thursday, October 21st 2021, 11:00:00 pm
+tags: [main]
 servings: 4
 cook_time: 4
+date_modified: Tuesday, March 25th 2025, 9:48:03 am
 ---
 
-Too many good recipes to share, so for simplicity I'll just share my dinner :)
-Though I used gailan instead of broccoli :)
+There are too many good recipes to share, so for simplicity, I'll share my dinner :) Though I used gailan instead of
+broccoli :)
 
 ## Ingredients
 
-- 12 oz beef (For a vegetarian option, use vegetables with low water content,
-  such as root vegetables.)
+- 12 oz beef (For a vegetarian option, use vegetables with low water content, such as root vegetables.)
 - 1 lb broccoli
 - 0.50 carrots
 - 2 cloves garlic
 - 1 small piece ginger
 - 1 stem scallions
 
-#### Marinade Ingredients
+### Marinade Ingredients
 
-- 1 tsp baking soda (you can tenderize meat physically by hammering the meat
-  with a meat mallet.)
+- 1 tsp baking soda (you can tenderise meat physically by hammering the meat with a meat mallet.)
 - 1 tbsp oyster sauce
 - 1 tbsp light soy sauce
 - 2 tbsp water
@@ -34,7 +32,7 @@ Though I used gailan instead of broccoli :)
 - 1 tsp sugar
 - 1 tbsp cooking wine
 
-#### Sauce Ingredients
+### Sauce Ingredients
 
 - 1 tbsp oyster sauce
 - 1 tsp light soy sauce
@@ -42,7 +40,7 @@ Though I used gailan instead of broccoli :)
 - 1 tbsp water
 - 1 tbsp cooking wine
 
-#### Extra Ingredients
+### Extra Ingredients
 
 - 2 tbsp cooking oil
 - 1 pinch salt
@@ -51,76 +49,65 @@ Though I used gailan instead of broccoli :)
 
 ## Directions
 
-#### Step 1 - Cut & wash beef
+### Step 1 - Cut & Wash Beef
 
-Cut the beef (12 oz) against the grain in medium slices. Wash and strain the
-blood out of the meat.
+Cut the beef (12 oz) against the grain into medium slices. Wash and strain the blood from the meat.
 
-#### Step 2 - Create beef marinade
+### Step 2 - Create Beef Marinade
 
-Make the sauce by mixing baking soda (1 tsp), oyster sauce (1 tbsp), light soy
-sauce (1 tbsp), water (2 tbsp), cornstarch (1 tbsp), white pepper (0.25 tsp),
-sugar (1 tsp), and cooking wine (1 tbsp).
+Make the sauce by mixing baking soda (1 tsp), oyster sauce (1 tbsp), light soy sauce (1 tbsp), water (2 tbsp),
+cornstarch (1 tbsp), white pepper (0.25 tsp), sugar (1 tsp), and cooking wine (1 tbsp).
 
-#### Step 3 - Mix beef into marinade
+### Step 3 - Mix Beef into Marinade
 
-Add the beef (12 oz) to the marinade and massage to have the meat fully covered
-with the marinade. Set aside and let it sit for 30 mins.
+Add the beef (12 oz) to the marinade and massage to fully cover the meat with the marinade. Set aside and let it sit for
+30 mins.
 
-#### Step 4 - Cut broccoli & vegetables
+### Step 4 - Cut Broccoli & Vegetables
 
 Cut the broccoli (1 lb) into bite-size pieces.
 
-Cut the carrot (0.50) into thin slivers, the ginger (1 small piece) into small
-cubes, the scallions (1 stem) into small pieces on a diagonal, and mince the
-garlic. (2 cloves)
+Cut the carrot (0.50) into thin slivers, the ginger (1 small piece) into small cubes, the scallions (1 stem) into small
+pieces on a diagonal, and mince the garlic. (2 cloves)
 
-#### Step 5 - Create sauce
+### Step 5 - Create Sauce
 
-In a small bowl, mix the oyster sauce (1 tbsp), light soy sauce (1 tsp), dark
-soy sauce (1 tsp), water (1 tbsp), cooking wine (1 tbsp), sugar, cornstarch, and
-white pepper.
+In a small bowl, mix the oyster sauce (1 tbsp), light soy sauce (1 tsp), dark soy sauce (1 tsp), water (1 tbsp), cooking
+wine (1 tbsp), sugar, cornstarch, and white pepper.
 
-#### Step 6 - Boil broccoli
+### Step 6 - Boil Broccoli
 
-Boil the broccoli with a little bit of oil and salt and cook it to your
-preference. Drain once cooked.
+Boil the broccoli with some oil and salt and cook it to your preference. Drain once cooked.
 
-#### Step 7 - Cook beef
+### Step 7 - Cook Beef
 
-Add some cooking oil (1 tbsp) into the marinated beef and mix until all the meat
-is lightly coated in oil. This will seal in the juices of the meat.
+Add some cooking oil (1 tbsp) to the marinated beef and mix until all the meat is lightly coated in oil. This will seal
+in the juices of the meat.
 
-Heat up the wok to the highest heat then add cooking oil (2 tbsp). Swirl the
-cooking oil around the wok to fully coat the bottom and sides. Pour out the
-excess oil.
+Heat the wok to the highest heat, then add cooking oil (2 tbsp). Swirl the cooking oil around the wok to thoroughly coat
+the bottom and sides. Pour out the excess oil.
 
-Slowly lower the heat and put in the meat. Cook the beef for around 30-60
-seconds. Or when it turns brown before flipping it.
+Slowly lower the heat and put in the meat. Cook the beef for around 30-60 seconds. Or when it turns brown before
+flipping it.
 
-Flip the beef and cook it for 60-90 seconds or until it\'s mostly brown. It\'s
-fine if it\'s a little red, because we will continue to cook it with the
-vegetables.
+Flip the beef and cook it for 60-90 seconds or until it\'s mostly brown. It\'s OK, if it\'s a bit red, we will continue
+to cook it with the vegetables.
 
-Once mostly cooked, turn off the heat and take the meat out from the wok. Set
-aside.
+Once mostly cooked, turn off the heat and remove the meat from the wok. Set aside.
 
-#### Step 8 - Stir-fry vegetables & beef
+### Step 8 - Stir-fry Vegetables & Beef
 
 Add the remaining oil and stir-fry the sides.
 
-Add the garlic (2 cloves) and ginger (1 small piece) first and fry for 20-30
-seconds. Put in the scallions (1 stem) and carrot slices (0.50) and cook for
-another 20-30 seconds. Once cooked, add the broccoli (1 lb). Cook for another
-30-40 seconds.
+Add the garlic (2 cloves) and ginger (1 small piece) first and fry for 20-30 seconds. Put the scallions (1 stem) and
+carrot slices (0.50) and cook for another 20-30 seconds. Once cooked, add the broccoli (1 lb). Cook for another 30-40
+seconds.
 
 Add back the beef. Cook everything together for 30-45 seconds.
 
-Because the broccoli absorbs a lot of liquid, you can add extra water to the
-sauce. We suggest 1 tbsp if needed.
+Because the broccoli absorbs much liquid, you can add extra water to the sauce. We suggest 1 tbsp if needed.
 
-#### Step 9 - Add sauce & stir-fry everything
+### Step 9 - Add Sauce & Stir-fry Everything
 
-Add the sauce to the stir-fry and constantly mix for about 1 minute. Add sesame
-oil (1 tsp). Once everything is incorporated, add a little more leftover oil to
-coat the broccoli- it will make it look very appetizing.
+Add the sauce to the stir-fry and constantly mix for about 1 minute. Add sesame oil (1 tsp). Once everything is
+incorporated, add a bit more leftover oil to coat the broccoliit will make it look very appetising.

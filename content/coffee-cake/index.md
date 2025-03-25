@@ -23,17 +23,13 @@ cook_time: 25
 
 ## Directions
 
-1. Cream together the butter and 100g of sugar for 5-6 minutes or until light
-   and fluffy
+1. Cream together the butter and 100g of sugar for 5-6 minutes or until light and fluffy
 1. Separate the egg yokes and whites
-1. Add the eggs yolks one at a one and mix completely before adding the next
-   one.
+1. Add the eggs yolks one at a one and mix completely before adding the next one.
 1. Mix the baking powder and flour in a separate bowl
-1. With the mixer on low, add the flour mix, and cold brew in the following
-   order ensuring the ingredients are combined but not over mixed before adding
-   the next part. 1/3 the flour mix, then half the cold brew, followed by half
-   the remaining flour, then the rest of the cold brew and finally the remaining
-   flour.
+1. With the mixer on low, add the flour mix, and cold brew in the following order ensuring the ingredients are combined
+   but not over mixed before adding the next part. 1/3 the flour mix, then half the cold brew, followed by half the
+   remaining flour, then the rest of the cold brew and finally the remaining flour.
 1. In a clean bowl, add the egg whites, 125g sugar and the salt.
 1. Whisk until stiff peaks form in the meringue.
 1. Fold the meringue into the batter, a third at a time.

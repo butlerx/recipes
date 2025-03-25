@@ -25,13 +25,11 @@ servings: 2 cups
 
 ## Directions
 
-1. Heat vegetable oil in a saucepan over medium-high heat. Add onion and saute
-   until translucent. Add garlic and cook for 3 minutes. Sprinkle in the masa
-   harina and stir constantly as it cooks and turns golden.
+1. Heat vegetable oil in a saucepan over medium-high heat. Add onion and saute until translucent. Add garlic and cook
+   for 3 minutes. Sprinkle in the masa harina and stir constantly as it cooks and turns golden.
 
-2) Add the spices and oregano and stir for another 2 minutes. Slowly which in
-   the warm vegetable stock and bring to a boil. Reduce to a simmer and whisk in
-   tomato paste and sugar.
+2) Add the spices and oregano and stir for another 2 minutes. Slowly which in the warm vegetable stock and bring to a
+   boil. Reduce to a simmer and whisk in tomato paste and sugar.
 
 3. Simmer partially covered for 30 minutes, stirring regularly. Season to taste.
 

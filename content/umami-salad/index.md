@@ -7,22 +7,17 @@ tags:
   - Starter
 ---
 
-I had this a lot growing up at my best friend\'s house and it was a staple when
-I went to his cabin near Power River in the summer when I was age 15-18. My
-friend\'s mom Marni would make a massive batch of this salad to feed a dozen
-kids, she\'d be cooking the bacon all afternoon, then she\'d serve it along with
-lasagna and garlic bread. I would probably eat at least 3 helpings of this
-salad. I got the recipe from her and started making it at home, usually
-quadrupling the recipe to fit in a 1 litre container I used to have. We called
-it \"Marni\'s salad\". My friend called it Caesar salad (not sure why). I\'d
-bring it to potlucks all the time and it was always a hit. I\'m giving it a new
-name now, \"Umami salad\" thanks to the many sources of glutamates/umami here:
-MSG, Worcestershire, bacon, parmesan cheese.
+I had this a lot growing up at my best friend\'s house and it was a staple when I went to his cabin near Power River in
+the summer when I was age 15-18. My friend\'s mom Marni would make a massive batch of this salad to feed a dozen kids,
+she\'d be cooking the bacon all afternoon, then she\'d serve it along with lasagna and garlic bread. I would probably
+eat at least 3 helpings of this salad. I got the recipe from her and started making it at home, usually quadrupling the
+recipe to fit in a 1 litre container I used to have. We called it \"Marni\'s salad\". My friend called it Caesar salad
+(not sure why). I\'d bring it to potlucks all the time and it was always a hit. I\'m giving it a new name now, \"Umami
+salad\" thanks to the many sources of glutamates/umami here: MSG, Worcestershire, bacon, parmesan cheese.
 
-The original version had a spice blend called \"Beau Monde\" by Spice Islands
-which I can\'t find anywhere, but it\'s basically \"Salt, Dextrose, Onion,
-Celery Seed\" so I\'ve substituted those in. Don\'t omit the MSG! I just use
-cheap parmesean, don\'t need to use parmigiano reggiano for this.
+The original version had a spice blend called \"Beau Monde\" by Spice Islands which I can\'t find anywhere, but it\'s
+basically \"Salt, Dextrose, Onion, Celery Seed\" so I\'ve substituted those in. Don\'t omit the MSG! I just use cheap
+parmesean, don\'t need to use parmigiano reggiano for this.
 
 ## Ingredients:
 
