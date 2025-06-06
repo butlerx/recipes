@@ -5,7 +5,7 @@ date: Saturday, October 16th 2021, 11:00:00 pm
 tags: [main]
 recipe_image: image21.png
 servings: 4-6
-date_modified: Tuesday, March 25th 2025, 9:58:54 am
+date_modified: Tuesday, March 25th 2025, 10:00:00 am
 ---
 
 My wife made this vegan ramen and it was tasty! (Even for a non-vegan)

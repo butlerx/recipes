@@ -11,14 +11,14 @@
             "id": "aac7ce36d1106fd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/vegan-ramen-recipe-with-miso-broth/index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "content/coffee-glazed-cookies.md",
+                "bFile": "content/coffee-glazed-cookies.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: coffee-glazed-cookies"
             }
           }
         ]
@@ -178,17 +178,20 @@
   },
   "active": "aac7ce36d1106fd6",
   "lastOpenFiles": [
+    "content/au-gratin/index.md",
+    "content/apple-scones/index.md",
+    "content/coffee-glazed-cookies.md",
+    "content/yorkshire-puddings.md",
+    "content/rhubarb-muffins/index.md",
+    "content/rye-sourdough/index.md",
+    "content/vegan-ramen-recipe-with-miso-broth/index.md",
     "content/venezuelan-pabellon-criollo/index.md",
     "content/walnut-bread/index.md",
     "content/white-chocolate-cheesecake/index.md",
     "content/white-turkey-3-bean-chili/index.md",
-    "content/coffee-glazed-cookies.md",
     "content/peppercorn-sauce.md",
     "content/roast-potatoes.md",
     "content/spaghetti-con-zucchine-alla-nerano.md",
-    "content/yorkshire-puddings.md",
-    "content/apple-scones/index.md",
-    "content/au-gratin/index.md",
     "content/beef-&-broccoli/index.md",
     "content/butternut-squash-risotto/image23.png",
     "content/butternut-squash-risotto",
@@ -200,13 +203,10 @@
     "content/kailua-pork-and-cabbage/index.md",
     "content/beef-&-broccoli/image36.jpg",
     "content/overnight-oat-sourdough/index.md",
-    "content/rye-sourdough/index.md",
-    "content/rhubarb-muffins/index.md",
     "content/tortillas/index.md",
     "content/humus.md",
     "content/parsley-pesto.md",
     "content/pesto.md",
-    "content/sourdough-starter.md",
     "recipes/Roast Potatoes.cook",
     "recipes/Yorkshire puddings.cook",
     "recipes/Green Peppercorn Sauce.cook",

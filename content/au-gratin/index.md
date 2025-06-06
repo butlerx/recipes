@@ -5,7 +5,7 @@ tags: [Dinner, vegetarian, potato, french]
 servings: 6
 prep_time: 25
 cook_time: 100
-date_modified: Tuesday, March 25th 2025, 9:42:06 am
+date_modified: Tuesday, March 25th 2025, 10:00:47 am
 ---
 
 Simple Potato Au Gratin
@@ -29,5 +29,5 @@ Simple Potato Au Gratin
 5. cook and stir for 2 minutes or until thickened.
 6. Remove from heat and stir in cheese until melted.
 7. Add potatoes and onion.
-8. Transfer to a baking dish, cover and bake 1 hour.
-9. Uncover and make for another bake 30-40 minutes or until the potatoes are tender.
+8. Transfer to a baking dish, cover and bake for 1 hour.
+9. Uncover and make for another bake for 30-40 minutes or until the potatoes are tender.

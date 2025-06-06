@@ -1,13 +1,11 @@
 ---
 title: Sourdough Rhubarb Muffins
-date: 2020-04-09
-tags:
-  - sourdough
-  - rhubarb
-  - dessert
+date: Wednesday, April 8th 2020, 11:00:00 pm
+tags: [sourdough, rhubarb, dessert]
 servings: 12
 prepTime: 15
 cookTime: 20
+date_modified: Tuesday, March 25th 2025, 10:00:08 am
 ---
 
 Rhubarb muffins, made with sourdough.
