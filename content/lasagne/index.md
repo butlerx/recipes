@@ -5,7 +5,7 @@ recipe_image:
 date: '2022-05-28T21:15:07+01:00'
 # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-tags: []
+tags: [main, italian, pasta, baked]
 servings: 4
 prep_time: 15 # in minutes
 cook: true # If we are cooking this, leave true, if we are cooling set to false

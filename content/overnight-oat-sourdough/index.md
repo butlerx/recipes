@@ -1,9 +1,7 @@
 ---
 title: Overnight Oat Sourdough
 date: 2022-05-22
-tags:
-  - sourdough
-  - bread
+tags: [sourdough, bread, breakfast]
 servings: 2
 prep_increment: Hours
 prep_time: 16

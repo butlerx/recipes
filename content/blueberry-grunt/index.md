@@ -3,8 +3,7 @@ title: Blueberry Grunt
 recipe_image: image27.png
 author: Julie Ferguson
 date: 2020-09-17
-tags:
-  - dessert
+tags: [dessert, blueberry, canadian, steamed]
 ---
 
 Blueberry Grunt is a popular dessert in Nova Scotia and the name is said to come from the "grunting" sound the

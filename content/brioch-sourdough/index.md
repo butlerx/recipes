@@ -1,10 +1,7 @@
 ---
 title: Sourdough Brioche
 date: 2021-09-27
-tags:
-  - brioche
-  - bread
-  - sourdough
+tags: [bread, brioche, sourdough]
 servings: 2
 prep_time: 20
 prep_increment: hours

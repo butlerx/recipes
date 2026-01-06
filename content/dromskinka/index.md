@@ -3,8 +3,7 @@ title: Drömskinka (Ham of dreams, dream-ham?)
 author: Bjoren Gronesjo
 date: 2021-10-17
 recipe_image: image6.jpg
-tags:
-  - main
+tags: [main, ham, swedish, comfort, holiday]
 cook_time: 45-60
 ---
 

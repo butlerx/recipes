@@ -2,9 +2,7 @@
 title: Umami Salad (aka Marni's Salad)
 date: 2021-10-17
 author: David Grant
-tags:
-  - Salad
-  - Starter
+tags: [salad, starter, umami, bacon, parmesan]
 ---
 
 I had this a lot growing up at my best friend\'s house and it was a staple when I went to his cabin near Power River in

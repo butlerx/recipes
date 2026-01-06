@@ -6,18 +6,26 @@ SHELL := bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
+# OS and architecture detection
+UNAME_S := $(shell uname -s)
+UNAME_M := $(shell uname -m)
+
+ifeq ($(UNAME_S),Darwin)
+	HUGO_OS := darwin-universal
+	DOWNLOAD_OS := darwin-universal # universal recommended for Apple/intel
+else
+	HUGO_OS := Linux-64bit
+	DOWNLOAD_OS := Linux-64bit
+endif
+
 DESTDIR := public
 HUGO_VERSION := 0.104.2
-HUGO := .cache/hugo_$(HUGO_VERSION)
-SASS_VERSION := 1.55.0
-SASS := .cache/dart-sass-embedded_$(SASS_VERSION)
-PLATFORM := Linux-64bit
-
-export PATH := $(PATH):$(PWD)/$(SASS)
-BINS = $(HUGO) $(SASS)
+HUGO := .cache/hugo_$(HUGO_VERSION)_$(HUGO_OS)
+BINS = $(HUGO)
 
 .PHONY: build
 build: public  ## Build Site
+
 public: $(BINS) config.toml content
 	@echo "🍳 Generating site"
 	$< --gc --minify -d $(DESTDIR)
@@ -48,24 +56,25 @@ lint: format ## Run markdown linter
 	@echo "🍜 Testing Markdown"
 	@docker run -v $(PWD):/workdir ghcr.io/igorshubovych/markdownlint-cli:latest "content"
 
+# Download hugo binary for apple (darwin) or linux. Try wget, or fallback to curl.
 $(HUGO):
-	@echo "🤵 Getting Hugo"
-	wget -q -P tmp/ https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_extended_$(HUGO_VERSION)_$(PLATFORM).tar.gz
-	tar xf tmp/hugo_extended_$(HUGO_VERSION)_$(PLATFORM).tar.gz -C tmp/
+	@echo "🤵 Getting Hugo ($(HUGO_OS))"
+	mkdir -p tmp/
+	$(if $(shell command -v wget 2>/dev/null), \
+		wget -q -P tmp/ https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_extended_$(HUGO_VERSION)_$(DOWNLOAD_OS).tar.gz, \
+		curl -fsSL -o tmp/hugo_extended_$(HUGO_VERSION)_$(DOWNLOAD_OS).tar.gz https://github.com/gohugoio/hugo/releases/download/v$(HUGO_VERSION)/hugo_extended_$(HUGO_VERSION)_$(DOWNLOAD_OS).tar.gz)
+	tar xf tmp/hugo_extended_$(HUGO_VERSION)_$(DOWNLOAD_OS).tar.gz -C tmp/
 	mkdir -p .cache
-	mv -f tmp/hugo $(HUGO)
-	rm -rf tmp/
-
-$(SASS):  ## Install dependencies for sass
-	@echo "🤵 Getting embedded sass"
-	wget -q -P tmp/ https://github.com/sass/dart-sass-embedded/releases/download/$(SASS_VERSION)/sass_embedded-$(SASS_VERSION)-linux-x64.tar.gz
-	mkdir -p  $@
-	tar xf tmp/sass_embedded-$(SASS_VERSION)-linux-x64.tar.gz -C tmp/
-	mv -f tmp/sass_embedded/dart-sass-embedded $@
+	mv -f tmp/hugo .cache/hugo_$(HUGO_VERSION)_$(HUGO_OS)
 	rm -rf tmp/
 
 .PHONY: help
-help: ## Display this help screen
+help: ## Display this help screen and platform info
+	@echo "Building on platform: $(UNAME_S) ($(HUGO_OS)), arch: $(UNAME_M)"
+	@echo "Hugo version: $(HUGO_VERSION)"
+	@echo "\nSupported on Linux and macOS (Apple Silicon and Intel Universal)."
+	@echo "If mogrify is missing, install via 'brew install imagemagick' (macOS) or 'sudo apt install imagemagick' (Linux)."
+	@echo "If wget is missing, install via 'brew install wget' or 'sudo apt install wget', or ensure curl is available."
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
 	| sort \
 	| awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}'

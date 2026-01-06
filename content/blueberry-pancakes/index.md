@@ -1,11 +1,7 @@
 ---
 title: Blueberry Pancakes
 date: 2019-12-23
-tags:
-  - breakfast
-  - fruit
-  - pancakes
-  - american
+tags: [breakfast, fruit, pancakes, american]
 servings: 12
 prep_time: 15
 cook_time: 7

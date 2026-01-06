@@ -4,8 +4,7 @@ author: Julie Ferguson
 date: 2021-10-17
 recipe_image: image17.png
 servings: 4
-tags:
-  - main
+tags: [main, mexican, vegetarian, enchiladas, zucchini]
 ---
 
 By far my favourite cookbook, Rebar is a vegetarian restaurant located in Victoria on Vancouver Island. Check it out

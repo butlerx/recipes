@@ -3,8 +3,7 @@ title: Slow Cooked Mushrooms and Butter Bean Mash
 recipe_image:
 date: 2021-10-22
 author: Cian Butler
-tags:
-  - main
+tags: [main, vegetarian, mushrooms, beans, slow-cooked]
 servings: 4
 cook_time: 90 # in minutes or hours
 ---

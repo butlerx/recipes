@@ -1,7 +1,7 @@
 ---
 title: Au Gratin
 date: Friday, April 3rd 2020, 11:00:00 pm
-tags: [Dinner, vegetarian, potato, french]
+tags: [dinner, vegetarian, potato, french, baked]
 servings: 6
 prep_time: 25
 cook_time: 100

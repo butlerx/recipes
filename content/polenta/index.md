@@ -2,8 +2,7 @@
 title: 'Polenta'
 recipe_image: image1.png
 date: 2020-09-17
-tags:
-  - main
+tags: [main, italian, polenta, comfort]
 author: Mauro de Carvalho
 ---
 

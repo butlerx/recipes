@@ -3,7 +3,7 @@ title: Apple Scones
 recipe_image: image14.png
 date: Wednesday, September 16th 2020, 11:00:00 pm
 author: Cian Butler
-tags: [pastry]
+tags: [pastry, scones, dessert, breakfast, apple]
 servings: 12
 prep_time: 15
 cook_time: 10

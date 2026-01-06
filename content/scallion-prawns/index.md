@@ -3,8 +3,7 @@ title: 'Scallion Prawns 油爆虾'
 recipe_image: image24.jpg
 date: 2021-10-17
 author: Joyce Wu
-tags:
-  - starter
+tags: [starter, seafood, chinese, prawns, stir-fried]
 cook_time: 20
 ---
 

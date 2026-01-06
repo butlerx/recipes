@@ -1,11 +1,7 @@
 ---
 title: Black Bean Tacos
 date: 2019-10-23
-tags:
-  - Dinner
-  - Mexican
-  - vegetarian
-  - vegan
+tags: [dinner, mexican, vegetarian, vegan, tacos]
 servings: 12
 prep_time: 25
 cook_time: 10

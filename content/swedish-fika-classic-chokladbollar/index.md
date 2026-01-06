@@ -3,8 +3,7 @@ title: Swedish Fika Classic Chokladbollar
 author: Max Vizard
 date: 2020-09-22
 recipe_image: image11.jpg
-tags:
-  - dessert
+tags: [dessert, swedish, fika, no-bake, chocolate]
 ---
 
 My Mormor (mother's mother) is a master of Fika, the classic Swedish coffee and cake break. Usually we get a selection

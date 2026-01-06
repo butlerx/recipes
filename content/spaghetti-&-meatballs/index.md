@@ -3,8 +3,7 @@ title: Spaghetti & Meatballs
 author: Rich Lubell
 date: 2020-09-22
 recipe_image: image15.png
-tags:
-  - main
+tags: [main, italian, pasta, beef, meatballs]
 ---
 
 I grew up in a heavily Italian neighborhood in New York; nothing says Italian-American cuisine like Spaghetti &

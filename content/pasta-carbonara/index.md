@@ -3,8 +3,7 @@ title: Pasta Carbonara
 author: Victor Aoqui
 date: 2021-10-17
 recipe_image: image37.png
-tags:
-  - main
+tags: [main, italian, pasta, bacon]
 ---
 
 ## Ingredients
