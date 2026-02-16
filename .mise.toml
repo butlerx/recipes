@@ -1,0 +1,56 @@
+[tools]
+hugo = "0.104.2"
+node = "lts"
+"npm:markdownlint-cli" = "latest"
+"npm:prettier" = "latest"
+
+[settings]
+experimental = true
+lockfile = true
+
+[tasks.build]
+description = "Build Site"
+sources = ["content/**/*", "config.toml", "go.mod"]
+outputs = ['public/**/*']
+quiet = true
+run = """
+echo "🍳 Generating site"
+hugo --gc --minify -d public
+echo "🧂 Optimizing images"
+find "public" -not -path "*/static/*" \\( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \\) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>' 2>/dev/null || true
+"""
+
+[tasks.serve]
+description = "Run development server in debug mode"
+env = { HUGO_MODULE_REPLACEMENTS = "github.com/butlerx/hugo-recipes -> ../../hugo-recipes" }
+run = 'hugo server -D -w'
+
+[tasks.update]
+description = "Update themes and modules"
+quiet = true
+run = """
+echo "🛎 Updating Theme"
+hugo mod get -u ./...
+hugo mod tidy
+"""
+
+[tasks.clean]
+description = "Clean built site"
+quiet = true
+run = """
+echo "🧹 Cleaning old build"
+rm -rf public resources
+"""
+
+[tasks.format]
+description = "Format Markdown files"
+run = "prettier --write ."
+
+[tasks.lint]
+description = "Run markdown linter"
+depends = ["format"]
+quiet = true
+run = """
+echo "🍜 Testing Markdown"
+markdownlint "content"
+"""

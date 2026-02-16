@@ -10,13 +10,19 @@
 ## Install
 
 ```sh
-make install
+mise install
 ```
 
 ## Usage
 
 ```sh
-make build
+mise run build
+```
+
+## Development
+
+```sh
+mise run serve
 ```
 
 ## Author
