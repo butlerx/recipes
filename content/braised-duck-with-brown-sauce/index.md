@@ -1,11 +1,12 @@
 ---
 title: 'Braised Duck With Brown Sauce'
-recipe_image: image26.jpg
 date: 2020-09-17
 author: Jason Shao
-tags:
-  - starter
+recipe_image: braised-duck.png
+tags: [starter, chinese, duck, braised, poultry]
 servings: 4
+prep_time: 15
+cook_time: 60
 ---
 
 This is typically a Shanghai local cuisine and is one of my favourites. It represents the cooking style of "Thick Oil

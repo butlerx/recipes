@@ -1,13 +1,13 @@
 ---
 title: Burnt Basque Cheesecake
-date: Monday, May 17th 2021, 11:00:00 pm
+date: 2021-05-17T23:00:00
+date_modified: 2025-03-25T09:41:40
 recipe_image: slice.jpg
-tags: [cheesecake, dessert, basque]
+tags: [dessert, cheesecake, baking, spanish]
 servings: 6
 prep_time: 50
-cook: true
 cook_time: 65
-date_modified: Tuesday, March 25th 2025, 9:41:40 am
+cook: true
 ---
 
 This recipe makes one 10" cheesecake. It can be made a day ahead, covered, and chilled. Be sure to let it sit for
@@ -33,16 +33,16 @@ several hours at room temperature to chill before serving.
    parchment, making sure parchment comes at least 2" above the top of pan on all sides. Because the parchment needs to
    be pleated and creased in some areas to fit in the pan, you won't end up with a clean, smooth outer edge to the cake;
    that's okay! Place the pan on a rimmed baking sheet.
-2. Beat cream cheese and sugar in the bowl of a stand mixer fitted with the paddle attachment on medium-low speed,
+1. Beat cream cheese and sugar in the bowl of a stand mixer fitted with the paddle attachment on medium-low speed,
    Scrape down the sides of the bowl until it is very smooth, no lumps remain, and the sugar has dissolved for about 2
    minutes.
-3. Increase speed to medium and add eggs one at a time, beating each egg 15 seconds before adding the next. Scrape down
+1. Increase speed to medium and add eggs one at a time, beating each egg 15 seconds before adding the next. Scrape down
    the sides of the bowl, then reduce the mixer speed to medium-low. Add cream, salt, and vanilla and beat until
    combined, about 30 seconds.
-4. Turn off the mixer and sift flour evenly over the cream cheese mixture using a fine-mesh sieve. Beat on low speed
+1. Turn off the mixer and sift flour evenly over the cream cheese mixture using a fine-mesh sieve. Beat on low speed
    until incorporated, about 15 seconds. Scrape down the sides of the bowl (yet again) and continue to beat until the
    batter is smooth, homogeneous, and silky, about 10 seconds.
-5. Pour batter into prepared pan. Bake cheesecake until deeply golden brown on top and still very jiggly in the centre,
+1. Pour batter into prepared pan. Bake cheesecake until deeply golden brown on top and still very jiggly in the centre,
    60–65 minutes.
-6. Let cool slightly (it will fall drastically as it cools), then unmold. Let cool completely. Carefully peel away the
+1. Let cool slightly (it will fall drastically as it cools), then unmold. Let cool completely. Carefully peel away the
    parchment from the sides of the cheesecake. Slice into wedges and serve at room temperature

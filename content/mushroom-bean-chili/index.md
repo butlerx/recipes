@@ -1,16 +1,11 @@
 ---
 title: Mushroom and Bean Chili
 date: 2020-03-16
-tags:
-  - Dinner
-  - Mexican
-  - chili
-  - vegan
-  - vegetarian
+recipe_image: mushroom-bean-chili.jpg
+tags: [main, mexican, chili, vegan, vegetarian]
 servings: 8
 prep_time: 20
 cook_time: 90
-recipe_image: IMG_20200316_190211.jpg
 ---
 
 A Mushroom and Bean Chili Served with tacos or rice
@@ -32,7 +27,7 @@ A Mushroom and Bean Chili Served with tacos or rice
 - 1 stick cinnamon
 - 500ml vegetable stock
 - 1 tablespoon honey
-- 50g chopped fresh corriander
+- 50g chopped fresh coriander
 
 ## Directions
 
@@ -40,6 +35,6 @@ A Mushroom and Bean Chili Served with tacos or rice
 1. Sauté peppers and onion until softened and starting to brown (approximately 5 minutes).
 1. Add garlic & sauté for 30 seconds, or until fragrant.
 1. Add chopped mushrooms. Sauté until softened and liquid has evaporated, stirring only occasionally.
-1. Add remaining ingredients except corriander and stir to combine. Bring to a boil, cover, and simmer for 1 hour.
-1. Add corriander during last five minutes of cooking.
-1. Serve with rice or tortilla, add sour cream, diced avocado, red onion, and more corriander to taste.
+1. Add remaining ingredients except coriander and stir to combine. Bring to a boil, cover, and simmer for 1 hour.
+1. Add coriander during last five minutes of cooking.
+1. Serve with rice or tortilla, add sour cream, diced avocado, red onion, and more coriander to taste.

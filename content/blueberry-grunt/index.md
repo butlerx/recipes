@@ -1,9 +1,12 @@
 ---
 title: Blueberry Grunt
-recipe_image: image27.png
-author: Julie Ferguson
 date: 2020-09-17
-tags: [dessert, blueberry, canadian, steamed]
+author: Julie Ferguson
+recipe_image: blueberry-grunt.png
+tags: [dessert, canadian, fruit, baking, blueberry]
+servings: 6
+prep_time: 15
+cook_time: 20
 ---
 
 Blueberry Grunt is a popular dessert in Nova Scotia and the name is said to come from the "grunting" sound the
@@ -25,8 +28,6 @@ in the blueberries over the stove, it's belovedly called a Blueberry Grunt.
 
 ## Ingredients
 
-### Ingredient Subheading
-
 - 4 Cups fresh or frozen blueberries (1 quart)
 - 1/2 cup sugar
 - 1/2 cup water
@@ -42,10 +43,10 @@ in the blueberries over the stove, it's belovedly called a Blueberry Grunt.
 
 ## Directions
 
-1.  In a large saucepan, heat blueberries, lemon zest, cinnamon, water and sugar slowly until blueberries begin to
-    soften, then bring to a boil. Simmer gently (5 minutes) while making dumplings.
-2.  Sift together flour, baking powder, salt and sugar. Cut in butter and add enough milk to make a soft dough.
-3.  Drop dumpling dough, by the tablespoonful, into the pot onto the hot berries (makes approximately 10 dumplings).
-4.  Cover tightly and cook for 15 minutes without raising the lid. I mean it, hands off the lid! Dumplings will double
-    in size.
-5.  Serve hot, spooning sauce over the dumplings. Top with cream, ice cream or yogurt.
+1. In a large saucepan, heat blueberries, lemon zest, cinnamon, water and sugar slowly until blueberries begin to
+   soften, then bring to a boil. Simmer gently (5 minutes) while making dumplings.
+1. Sift together flour, baking powder, salt and sugar. Cut in butter and add enough milk to make a soft dough.
+1. Drop dumpling dough, by the tablespoonful, into the pot onto the hot berries (makes approximately 10 dumplings).
+1. Cover tightly and cook for 15 minutes without raising the lid. I mean it, hands off the lid! Dumplings will double in
+   size.
+1. Serve hot, spooning sauce over the dumplings. Top with cream, ice cream or yogurt.

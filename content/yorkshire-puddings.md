@@ -1,7 +1,11 @@
 ---
 title: Yorkshire Puddings
-date: Tuesday, March 25th 2025, 9:47:28 am
-date_modified: Tuesday, March 25th 2025, 9:48:19 am
+date: 2025-03-25T09:47:28
+date_modified: 2025-03-25T09:48:19
+tags: [side, british, baking]
+servings: 12
+prep_time: 10
+cook_time: 25
 ---
 
 ## Ingredients
@@ -15,11 +19,11 @@ date_modified: Tuesday, March 25th 2025, 9:48:19 am
 ## Method
 
 1. Preheat the oven to 200C Fan
-2. Mix the flour and salt together in a bowl and make a well in the centre.
-3. Add the eggs and a little of the milk.
-4. Whisk until smooth, then gradually add the remaining milk.
-5. Measure a teaspoon of oil into each hole of a 12-bun tray. Transfer to the oven for 5 minutes or until the oil is
+1. Mix the flour and salt together in a bowl and make a well in the centre.
+1. Add the eggs and a little of the milk.
+1. Whisk until smooth, then gradually add the remaining milk.
+1. Measure a teaspoon of oil into each hole of a 12-bun tray. Transfer to the oven for 5 minutes or until the oil is
    piping hot.
-6. Carefully remove from the oven and pour the batter equally between the tin holes.
-7. Quickly return the batter to the oven and cook for 20 minutes or until golden brown and well-risen.
-8. Serve immediately.
+1. Carefully remove from the oven and pour the batter equally between the tin holes.
+1. Quickly return the batter to the oven and cook for 20 minutes or until golden brown and well-risen.
+1. Serve immediately.

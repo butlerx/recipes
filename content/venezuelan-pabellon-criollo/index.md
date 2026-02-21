@@ -1,10 +1,14 @@
 ---
 title: Venezuelan Pabellón Criollo
+date: 2021-10-16T23:00:00
+date_modified: 2025-03-25T09:54:17
 author: Gabriel Reyes
-date: Saturday, October 16th 2021, 11:00:00 pm
-recipe_image: image7.png
-tags: [main]
-date_modified: Tuesday, March 25th 2025, 9:54:17 am
+recipe_image: pabellon-criollo.png
+tags: [main, venezuelan, beef, beans]
+servings: 4
+prep_time: 30
+cook_time: 4
+cook_increment: hours
 ---
 
 Pronounced: (pah-beh-yon) (cree-oh-yoh)
@@ -15,9 +19,9 @@ worth it
 Four components
 
 1. [Pulled Beef](#pulled-beef)
-2. [Black beans](#black-beans)
-3. [White rice](#white-rice)
-4. [Fried plantains](#fried-plantains)
+1. [Black beans](#black-beans)
+1. [White rice](#white-rice)
+1. [Fried plantains](#fried-plantains)
 
 ## Pulled Beef
 
@@ -25,8 +29,8 @@ Four components
 - 1 Sweet onion
 - 1 Red/Yellow/Orange bell pepper
 - 2 cloves of garlic (more if desired)
-- 3/4 small sweet (not hot!) chilis. Known as \"ají dulce\" in Spanish, these are native to the Caribbean. It's hard to
-  find, but it's very worth it. Optional if you can\'t find them (I never can).
+- 3/4 small sweet (not hot!) chilis. Known as "ají dulce" in Spanish, these are native to the Caribbean. It's hard to
+  find, but it's very worth it. Optional if you can't find them (I never can).
 - 1/2 Tbsp of cumin
 - Beef stock
 

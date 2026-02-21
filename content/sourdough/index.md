@@ -1,14 +1,14 @@
 ---
 draft: true
 title: 'Sourdough'
-recipe_image:
 date: 2022-05-22T16:20:10+01:00
-tags: [bread, sourdough, classic]
+recipe_image:
+tags: [bread, sourdough, irish]
 servings: 4
 prep_time: 15 # in minutes
-cook: true # If we are cooking this, leave true, if we are cooling set to false
-cook_increment: minutes # set to minutes or hours
 cook_time: 8 # in minutes or hours
+cook_increment: minutes # set to minutes or hours
+cook: true # If we are cooking this, leave true, if we are cooling set to false
 ---
 
 ## Ingredients

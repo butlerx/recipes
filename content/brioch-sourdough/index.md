@@ -1,12 +1,12 @@
 ---
 title: Sourdough Brioche
 date: 2021-09-27
-tags: [bread, brioche, sourdough]
+recipe_image: brioche-sourdough.jpg
+tags: [bread, sourdough, baking, french]
 servings: 2
 prep_time: 20
 prep_increment: hours
 cook_time: 40
-recipe_image: IMG_20210925_122921.jpg
 ---
 
 ## Ingredients

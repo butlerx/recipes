@@ -1,10 +1,9 @@
 ---
 title: 'East Coast Green Tomato Chow'
-recipe_image: image2.jpg
-author: Dwayne Schmous
 date: 2021-10-17
-tags:
-  - condiment
+author: Dwayne Schmous
+recipe_image: green-tomato-chow.jpg
+tags: [sauce, pickled, canadian]
 servings: 6-8 pints
 prep_time: 15 # in minutes
 cook_time: 35 # in minutes or hours
@@ -14,7 +13,7 @@ This has been passed down for generations. It is something that we put on our ta
 
 Makes 6-8 Pints
 
-## Ingredients:
+## Ingredients
 
 - 30 Green Tomatoes
 - 3 Spanish Onions
@@ -28,9 +27,9 @@ Makes 6-8 Pints
 
 ## Directions
 
-1.  In a large pot chop up the tomato and peppers into large chunks.
-2.  Chop the onion into thin strings.
-3.  Cook on medium for about 30 min. After 30 min add the rest of the ingredients and bring to a boil for 5 min.
+1. In a large pot chop up the tomato and peppers into large chunks.
+1. Chop the onion into thin strings.
+1. Cook on medium for about 30 min. After 30 min add the rest of the ingredients and bring to a boil for 5 min.
 
 You can or store as you would, it should be good for a couple years if you wet bath/seal them.
 

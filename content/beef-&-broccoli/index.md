@@ -1,12 +1,13 @@
 ---
 title: Beef & Broccoli
-recipe_image: image36.jpg
+date: 2021-10-21T23:00:00
+date_modified: 2025-03-25T09:48:03
 author: Jason Wei
-date: Thursday, October 21st 2021, 11:00:00 pm
-tags: [main]
+recipe_image: beef-and-broccoli.jpg
+tags: [main, chinese, beef, stir-fried]
 servings: 4
+prep_time: 45
 cook_time: 4
-date_modified: Tuesday, March 25th 2025, 9:48:03 am
 ---
 
 There are too many good recipes to share, so for simplicity, I'll share my dinner :) Though I used gailan instead of
@@ -90,8 +91,8 @@ the bottom and sides. Pour out the excess oil.
 Slowly lower the heat and put in the meat. Cook the beef for around 30-60 seconds. Or when it turns brown before
 flipping it.
 
-Flip the beef and cook it for 60-90 seconds or until it\'s mostly brown. It\'s OK, if it\'s a bit red, we will continue
-to cook it with the vegetables.
+Flip the beef and cook it for 60-90 seconds or until it's mostly brown. It's OK, if it's a bit red, we will continue to
+cook it with the vegetables.
 
 Once mostly cooked, turn off the heat and remove the meat from the wok. Set aside.
 
@@ -110,4 +111,4 @@ Because the broccoli absorbs much liquid, you can add extra water to the sauce. 
 ### Step 9 - Add Sauce & Stir-fry Everything
 
 Add the sauce to the stir-fry and constantly mix for about 1 minute. Add sesame oil (1 tsp). Once everything is
-incorporated, add a bit more leftover oil to coat the broccoliit will make it look very appetising.
+incorporated, add a bit more leftover oil to coat the broccoli — it will make it look very appetising.

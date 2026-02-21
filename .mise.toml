@@ -1,8 +1,9 @@
 [tools]
-hugo = "0.104.2"
+hugo = "latest"
 node = "lts"
 "npm:markdownlint-cli" = "latest"
 "npm:prettier" = "latest"
+"npm:cspell" = "latest"
 
 [settings]
 experimental = true
@@ -13,11 +14,10 @@ description = "Build Site"
 sources = ["content/**/*", "config.toml", "go.mod"]
 outputs = ['public/**/*']
 quiet = true
+alias = "b"
 run = """
 echo "🍳 Generating site"
 hugo --gc --minify -d public
-echo "🧂 Optimizing images"
-find "public" -not -path "*/static/*" \\( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \\) -print0 | xargs -0 -P8 -n2 mogrify -strip -thumbnail '1000>' 2>/dev/null || true
 """
 
 [tasks.serve]
@@ -46,11 +46,26 @@ rm -rf public resources
 description = "Format Markdown files"
 run = "prettier --write ."
 
+[tasks."format:check"]
+description = "Check formatting"
+run = "prettier --check ."
+
 [tasks.lint]
 description = "Run markdown linter"
-depends = ["format"]
 quiet = true
 run = """
 echo "🍜 Testing Markdown"
 markdownlint "content"
 """
+
+[tasks.spell]
+description = "Check spelling"
+quiet = true
+run = """
+echo "🔤 Checking Spelling"
+cspell "content/**/*.md"
+"""
+
+[tasks.check]
+description = "Run all checks"
+depends = ["format:check", "lint", "spell"]

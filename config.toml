@@ -1,30 +1,19 @@
 title = "Kitchen Runbook"
 baseURL = "https://recipes.notthe.cloud"
 languageCode = "en-ie"
-defaultcontentlanguage = "en"
-paginate = 20.0
 enableGitInfo = true
 sectionPagesMenu = "main"
-theme = ["github.com/butlerx/hugo-recipes"]
 
-[author]
-name = "Cian Butler"
-email = "butlerx@notthe.cloud"
+[pagination]
+pagerSize = 20
 
 [params]
 description = "Random recipes i've collected and made"
-keywords = "recipes, cookbook"
-dateFormat = "Jan 2, 2006"
 theme = "#151515"
 
-[permalinks]
-posts = "/:filename"
-
-[menu]
-[[menu.main]]
-name = "Me"
-url = "https://cianbutler.ie"
-weight = 10
+[params.author]
+name = "Cian Butler"
+fediverse = "@butlerx@mastodon.ie"
 
 [[menu.main]]
 name = "Home"
@@ -32,37 +21,18 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Categories"
+name = "Tags"
 url = "/tags/"
 weight = 2
 
-[outputs]
-home = ["HTML", "RSS", "MANIFEST"]
-page = ["HTML", "PRINT"]
-
-[outputFormats]
-[outputFormats.manifest]
-name = "manifest"
-baseName = "manifest"
-mediaType = "application/json"
-notAlternative = "true"
-[outputFormats.printFormat]
-name = "print"
-mediaType = "text/html"
-baseName = "print"
-isPlainText = false
-rel = "print"
-isHTML = true
-noUgly = true
-permalinkable = true
-path = "print"
+[[menu.main]]
+name = "Me"
+url = "https://cianbutler.ie"
+weight = 10
 
 [module]
-# uncomment line below for temporary local development of module
-# replacements = "github.com/butlerx/hugo-recipes -> ../../hugo-recipes"
 [module.hugoVersion]
-extended = true
-min = "0.75.0"
+min = "0.128.0"
 [[module.imports]]
 path = "github.com/butlerx/hugo-recipes"
 disable = false

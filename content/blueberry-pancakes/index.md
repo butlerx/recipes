@@ -1,11 +1,11 @@
 ---
 title: Blueberry Pancakes
 date: 2019-12-23
-tags: [breakfast, fruit, pancakes, american]
+recipe_image: blueberry-pancakes.jpg
+tags: [breakfast, fruit, pancakes, american, blueberry]
 servings: 12
 prep_time: 15
 cook_time: 7
-recipe_image: _pancaketuesday_breakfast.jpg
 ---
 
 American style pancakes, best served with blueberries or another fruit.

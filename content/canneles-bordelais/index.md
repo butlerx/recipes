@@ -1,10 +1,13 @@
 ---
 title: Cannelés Bordelais
+date: 2021-10-16T23:00:00
+date_modified: 2025-03-25T09:36:06
 author: Robin Mizreh
-date: Saturday, October 16th 2021, 11:00:00 pm
-recipe_image: image19.jpg
-tags: [dessert]
-date_modified: Tuesday, March 25th 2025, 9:36:06 am
+recipe_image: canneles-bordelais.jpg
+tags: [dessert, french, baking]
+servings: 12
+prep_time: 15
+cook_time: 75
 ---
 
 French pastries. One of my favorite pastries !
@@ -22,21 +25,21 @@ French pastries. One of my favorite pastries !
 
 ## Directions
 
-1.  Mix the flour and the sugar in a big bowl
-2.  Make the milk, the butter and the vanilla boil in a saucepan
-3.  Add the eggs (all the yolks and the two eggs) to the flour and sugar one at a time and the hot milk little by
-    little. Whip everything together. You should get a fluid texture (without lumps)
-4.  Let it cool down
-5.  Add the Rum and the salt
-6.  Let it rest for 1 hour in the fridge
-7.  You will need canelés mould (I think you can use cupcake one, but I never tried (see attached picture to see what is
-    look like)
-8.  Preheat your oven to 240 Celsius (465 Fahrenheit) if you use Silicon mould like me, 220 Celsius or 430 Fahrenheit)
-9.  Buttering the mould (only if not in Sylicon)
-10. Fill moulds only at \~3/4
-11. Put it in the oven for 14 minutes
-12. Then lower the temperature to 180 Celsius (355 Fahrenheit) and let it cook for another hour (Don\'t take the mould
-    out of the oven :slightly_smiling_face: )
-13. Unmold when hot!
+1. Mix the flour and the sugar in a big bowl
+1. Make the milk, the butter and the vanilla boil in a saucepan
+1. Add the eggs (all the yolks and the two eggs) to the flour and sugar one at a time and the hot milk little by little.
+   Whip everything together. You should get a fluid texture (without lumps)
+1. Let it cool down
+1. Add the Rum and the salt
+1. Let it rest for 1 hour in the fridge
+1. You will need canelés mould (I think you can use cupcake one, but I never tried (see attached picture to see what is
+   look like)
+1. Preheat your oven to 240 Celsius (465 Fahrenheit) if you use Silicon mould like me, 220 Celsius or 430 Fahrenheit)
+1. Buttering the mould (only if not in Silicone)
+1. Fill moulds only at ~3/4
+1. Put it in the oven for 14 minutes
+1. Then lower the temperature to 180 Celsius (355 Fahrenheit) and let it cook for another hour (Don't take the mould out
+   of the oven :slightly_smiling_face: )
+1. Unmold when hot!
 
 It is ready !!! Enjoy !!!!

@@ -1,9 +1,13 @@
 ---
 title: Swedish Fika Classic Chokladbollar
-author: Max Vizard
 date: 2020-09-22
-recipe_image: image11.jpg
-tags: [dessert, swedish, fika, no-bake, chocolate]
+author: Max Vizard
+recipe_image: chokladbollar.jpg
+tags: [dessert, swedish, no-bake, chocolate, fika]
+servings: 20
+prep_time: 15
+cook_time: 30
+cook: false
 ---
 
 My Mormor (mother's mother) is a master of Fika, the classic Swedish coffee and cake break. Usually we get a selection
@@ -20,12 +24,12 @@ Chokladbollar are my favorite, a quick and easy no-bake recipe.
 - 300ml rolled oats (porridge oats)
 - 2-3 tbsp cold strong coffee
 
-## Directions:
+## Directions
 
 1. Beat butter, sugar and vanilla sugar till fluffy. Mix in cocoa.
-2. Add the oats and coffee, mix well.
-3. Roll the batter into balls, size is up to you but usually a bit smaller than a golf ball.
-4. Garnish the balls in pearl sugar or coconut flakes (bacon bits for the Canadians maybe?)
+1. Add the oats and coffee, mix well.
+1. Roll the batter into balls, size is up to you but usually a bit smaller than a golf ball.
+1. Garnish the balls in pearl sugar or coconut flakes (bacon bits for the Canadians maybe?)
 
 Here is a [silly YouTube song](https://youtu.be/oRIeytEXGhQ) about Fika featuring chokladbollar:
 

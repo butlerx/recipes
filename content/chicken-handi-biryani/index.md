@@ -1,10 +1,13 @@
 ---
 title: 'Chicken Handi Biryani'
-author: Varun Gupta
-recipe_image: image9.png
 date: 2020-09-17
-tags:
-  - main
+author: Varun Gupta
+recipe_image: chicken-biryani.png
+tags: [main, indian, chicken, rice, poultry]
+servings: 4
+prep_time: 4
+prep_increment: hours
+cook_time: 45
 ---
 
 This is NOT from my grandmom or my mom, they both are vegetarians 😋
@@ -31,12 +34,12 @@ good basmati Rice, flavours & fragrance of clay handi.
 
 1. Marinate chicken with all ingredients - lemon juice, turmeric, salt, garam masala powder, fried onion, curd, mint and
    coriander leaves, ginger-garlic paste. Keep aside for 3 hours.
-2. Just Before cooking, clean and soak the basmati rice with water for 1 hour.
-3. Take a handi (Clay bowl) or bowl, transfer the whole marinated chicken to it. Cook and soak basmati rice on a high
+1. Just Before cooking, clean and soak the basmati rice with water for 1 hour.
+1. Take a handi (Clay bowl) or bowl, transfer the whole marinated chicken to it. Cook and soak basmati rice on a high
    flame. Remove the water and transfer the rice to the chicken bowl in 2 layers. Top the 1st layer and 2nd layer with
    some mint, fried onions and coriander leaves with ghee.
-4. Seal bowl/handi
-5. Take one tin layer plate. Put the handi/bowl on a gas stove with a high flame for 13 minutes. After that, make it to
+1. Seal bowl/handi
+1. Take one tin layer plate. Put the handi/bowl on a gas stove with a high flame for 13 minutes. After that, make it to
    medium flame for 23 minutes. Between this, turn the handi or bowl multiple times for proper cooking. Switch off the
    gas stove and keep it aside for 10 minutes.
 

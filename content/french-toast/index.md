@@ -1,13 +1,12 @@
 ---
 title: French Toast
-recipe_image: _SAM6428.JPG
 date: 2022-05-22
-tags:
-  - breakfast
+recipe_image: french-toast.jpg
+tags: [breakfast, french, bread]
 servings: 4
 prep_time: 15 # in minutes
-cook_increment: minutes # set to minutes or hours
 cook_time: 8 # in minutes or hours
+cook_increment: minutes # set to minutes or hours
 ---
 
 ## Ingredients

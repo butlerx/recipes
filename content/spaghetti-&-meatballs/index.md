@@ -1,9 +1,12 @@
 ---
 title: Spaghetti & Meatballs
-author: Rich Lubell
 date: 2020-09-22
-recipe_image: image15.png
+author: Rich Lubell
+recipe_image: spaghetti-meatballs.png
 tags: [main, italian, pasta, beef, meatballs]
+servings: 4
+prep_time: 20
+cook_time: 30
 ---
 
 I grew up in a heavily Italian neighborhood in New York; nothing says Italian-American cuisine like Spaghetti &

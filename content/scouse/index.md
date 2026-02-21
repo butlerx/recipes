@@ -1,10 +1,13 @@
 ---
 title: 'Scouse'
-recipe_image: image3.jpg
 date: 2020-09-22
-tags:
-  - main
 author: Mark McDonagh
+recipe_image: scouse.jpg
+tags: [main, british, stew, lamb]
+servings: 6
+prep_time: 20
+cook_time: 3
+cook_increment: hours
 ---
 
 This food is so popular it literally became an identity for some people. Originally known as lapskaus or lobscouse,
@@ -36,9 +39,9 @@ My Grandad, who grew up in a bombed out Liverpool after WWII used to joke that S
 then - "anything you can find! Potatoes, bread, rats, just throw it in the pot!"
 
 Nowadays Scouse is slightly different to Lobscouse, usually a stew made with minced lamb or beef, potatoes, carrots and
-onions (even with lamb, beef stock is usually used). If you\'re feeling fancy you can use diced lamb or beef (usually
+onions (even with lamb, beef stock is usually used). If you're feeling fancy you can use diced lamb or beef (usually
 neck meat). Some of the potatoes are purposefully cut really small so that they disintegrate when cooking and thicken
-the soup. It\'s usually served with bread and either pickled cabbage or pickled beetroot (or both). Some people will add
+the soup. It's usually served with bread and either pickled cabbage or pickled beetroot (or both). Some people will add
 brown sauce to it and mix it in.
 
 To make it properly can take 3-6 hours, but you can usually live off of it for a few days. Some people even prefer it

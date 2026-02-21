@@ -1,7 +1,11 @@
 ---
 title: Coffee Glazed Cookies
-date: Tuesday, March 25th 2025, 9:47:28 am
-date_modified: Tuesday, March 25th 2025, 10:00:15 am
+date: 2025-03-25T09:47:28
+date_modified: 2025-03-25T10:00:15
+tags: [dessert, cookies, coffee, baking, irish]
+servings: 20
+prep_time: 15
+cook_time: 12
 ---
 
 ## Ingredients
@@ -28,13 +32,13 @@ date_modified: Tuesday, March 25th 2025, 10:00:15 am
 ## Method
 
 1. Preheat your oven to 180C. Line a baking tray with a silicone mat or baking paper.
-2. Whisk the flour, baking powder, baking soda, cornflour, salt and set aside.
-3. Whisk together the melted butter, vanilla extract and sugars. Add the egg and mix until combined.
-4. Add the dry ingredients and mix until just combined. Fold in the chocolate chips.
-5. Roll the dough into balls weighing approximately 40g. Place onto your baking tray lined with baking paper or a
+1. Whisk the flour, baking powder, baking soda, cornflour, salt and set aside.
+1. Whisk together the melted butter, vanilla extract and sugars. Add the egg and mix until combined.
+1. Add the dry ingredients and mix until just combined. Fold in the chocolate chips.
+1. Roll the dough into balls weighing approximately 40g. Place onto your baking tray lined with baking paper or a
    silicone mat.
-6. Bake for 10-12 minutes.
-7. cool on the baking tray for 5-10 minutes before transferring to a wire rack to cool completely.
-8. Brew up a cup of your favourite coffee
-9. Make your coffee glaze by whisking the icing sugar and 1 tbsp freshly brewed coffee until smooth and combined. Once
+1. Bake for 10-12 minutes.
+1. cool on the baking tray for 5-10 minutes before transferring to a wire rack to cool completely.
+1. Brew up a cup of your favourite coffee
+1. Make your coffee glaze by whisking the icing sugar and 1 tbsp freshly brewed coffee until smooth and combined. Once
    cooled, drizzle over the cookies.

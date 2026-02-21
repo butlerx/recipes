@@ -1,16 +1,12 @@
 ---
 title: Sourdough Pizza
 date: 2020-09-20
-tags:
-  - sourdough
-  - dough
-  - dinner
-  - Italian
+recipe_image: sourdough-pizza.jpg
+tags: [sourdough, baked, main, italian]
 servings: 4
-prep_increment: hours
 prep_time: 24
+prep_increment: hours
 cook_time: 2
-recipe_image: IMG_20210919_192019.jpg
 ---
 
 Sourdough Pizza. Toppings can be what ever you want. Customise as you need.
@@ -28,7 +24,7 @@ Sourdough Pizza. Toppings can be what ever you want. Customise as you need.
 1. Add ingredients in a bowl starting with water as the base and stirring in the starter before adding the rest.
 1. Mix all the with your fingers or a wooden spoon until a shaggy dough is formed.
 1. If mixing with a stand mixer, speed 2, for 8-10 minutes, the dough will have come together and begin to look less
-   shagy but not be fully developed.
+   shaggy but not be fully developed.
 1. If mixing by hand, dump dough on to a unfloured counter and perforce slap & fold on the dough for 8-10 minutes. It
    should be firm and hold its shape on the counter.
 1. Transfer to a bowl Covered with a damp tea towel for bulk Fermentation.

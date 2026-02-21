@@ -1,10 +1,12 @@
 ---
 title: 'Lamb Rack'
-recipe_image: image5.png
-author: Andre Campos
 date: 2020-09-17
-tags:
-  - main
+author: Andre Campos
+recipe_image: lamb-rack.png
+tags: [main, lamb, grilled, portuguese]
+servings: 2
+prep_time: 5
+cook_time: 20
 ---
 
 Salt, flame, and profit.

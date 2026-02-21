@@ -1,9 +1,12 @@
 ---
 title: 'Polenta'
-recipe_image: image1.png
 date: 2020-09-17
-tags: [main, italian, polenta, comfort]
 author: Mauro de Carvalho
+recipe_image: polenta.png
+tags: [main, italian, polenta, comfort]
+servings: 2
+prep_time: 5
+cook_time: 10
 ---
 
 A childhood food for me, especially during the winter was polenta.
