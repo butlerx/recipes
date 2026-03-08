@@ -11,7 +11,7 @@ cook_time: 25
 
 ## Ingredients
 
-#### For the Dish
+### For the Dish
 
 - 2 tbsp blanched hazelnuts
 - 1 tbsp vegetable oil

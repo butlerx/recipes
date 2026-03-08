@@ -26,7 +26,9 @@ crêpes
 desiccated
 doubanjiang
 dulce
+duxelles
 flatleaf
+fraîche
 gailan
 galette
 galettes
@@ -38,10 +40,10 @@ harina
 kombu
 lardons
 maitake
+masa
 masala
 masalas
 mascarpone
-masa
 miso
 pancetta
 parmigiano
@@ -53,6 +55,7 @@ portobello
 purée
 reggiano
 shichimi
+tarka
 togarashi
 tortilla
 umami

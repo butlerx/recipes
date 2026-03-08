@@ -12,7 +12,7 @@ cook_time: 5
 
 ## Ingredients
 
-#### For the Skagen
+### For the Skagen
 
 - 100g M&S Food Classic Mayonnaise
 - 100g M&S Food Lighter Crème Fraîche
@@ -23,7 +23,7 @@ cook_time: 5
 - 2 packs M&S Food Atlantic Peeled Prawns (175g each)
 - Burren Balsamics Citrus Pearl Bursts (optional)
 
-#### For the Toast
+### For the Toast
 
 - A little salted butter, for frying
 - M&S Authentic Brioche Loaf

@@ -4,6 +4,7 @@ node = "lts"
 "npm:markdownlint-cli" = "latest"
 "npm:prettier" = "latest"
 "npm:cspell" = "latest"
+prek = "latest"
 
 [settings]
 experimental = true

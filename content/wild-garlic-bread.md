@@ -12,7 +12,7 @@ cook_time: 15
 
 ## Ingredients
 
-#### For the loaves
+### For the loaves
 
 - 240ml whole milk
 - 7g dry yeast
@@ -24,7 +24,7 @@ cook_time: 15
 - 385g bread flour, plus extra for dusting
 - Drizzle of olive oil
 
-#### For the wild garlic butter
+### For the wild garlic butter
 
 - 100g butter, melted
 - 20g wild garlic, finely chopped

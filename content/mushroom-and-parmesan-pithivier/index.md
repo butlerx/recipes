@@ -11,7 +11,7 @@ cook_time: 30 # in minutes
 
 ## Ingredients
 
-#### Pithivier
+### Pithivier
 
 - 400g button mushrooms, blitzed to a fine crumb in a food processor
 - 30g grated parmesan
@@ -23,7 +23,7 @@ cook_time: 30 # in minutes
 - 1 sheet of pre-rolled puff pastry
 - 1 egg yolk, for egg wash
 
-#### Green Goddess Sauce
+### Green Goddess Sauce
 
 - Handful of fresh parsley
 - Handful of fresh mint
