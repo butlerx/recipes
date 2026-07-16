@@ -14,9 +14,9 @@ Family, drop scones recipes. Best eaten hot
 - 4oz plain flour
 - 1/4 tsp salt
 - 1 tsp of baking powder
+- 1 oz caster sugar (optional)
 - 1 egg
 - 1/4 pint of milk
-- 1 oz caster sugar (optional)
 - 1/2 oz margarine
 
 ## Directions

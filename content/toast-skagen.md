@@ -16,18 +16,18 @@ cook_time: 5
 
 - 100g M&S Food Classic Mayonnaise
 - 100g M&S Food Lighter Crème Fraîche
+- 1 heaped tbsp M&S Collection Dill & Mustard Sauce
 - Juice and zest of half an unwaxed lemon
-- 5-10 sprigs of fresh dill (or chive)
 - 1 large (or 2 small) spring onions, finely sliced
-- Salt and freshly ground pepper
 - 2 packs M&S Food Atlantic Peeled Prawns (175g each)
+- Salt and freshly ground pepper
 - Burren Balsamics Citrus Pearl Bursts (optional)
+- 5-10 sprigs of fresh dill (or chive)
 
 ### For the Toast
 
 - A little salted butter, for frying
 - M&S Authentic Brioche Loaf
-- 1 heaped tbsp M&S Collection Dill & Mustard Sauce
 
 ## Directions
 

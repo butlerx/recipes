@@ -11,13 +11,13 @@ Galettes filled with garlicky sautéed mushrooms, cream and melted cheese.
 
 ## Ingredients
 
-- 4 [galettes bretonnes](/galettes-bretonnes)
-- 80g grated cheese (Cheddar, Emmental, or Gruyère)
+- Knob of butter
 - 400g mushrooms, finely sliced
 - 1-2 cloves of garlic, crushed
 - 100ml double cream
-- Knob of butter
 - Salt and pepper
+- 4 [galettes bretonnes](/galettes-bretonnes)
+- 80g grated cheese (Cheddar, Emmental, or Gruyère)
 
 ## Directions
 

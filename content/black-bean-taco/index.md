@@ -12,14 +12,14 @@ Vegetarian Black bean chilli best served in tacos.
 
 ## Ingredients
 
-- [Tortillas](../tortillas)
+- 1 dried chilli
 - 2 tbsp virgin olive oil
 - 4 cloves of garlic, finely chopped
 - 1 red onion, diced
-- 1 dried chilli
 - 2 tomato
 - 400g tin black beans
 - 1 corncob
+- [Tortillas](../tortillas)
 - 1 ripe avocado, stoned, peeled, diced
 - coriander to taste, ruffly chopped
 - 1/2 lime

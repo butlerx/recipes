@@ -13,12 +13,12 @@ cook_time: 12
 ### Cookies
 
 - 250g plain or all-purpose flour
-- 1 teaspoon of cornflour or cornstarch
 - 1 teaspoon of baking powder
 - ½ teaspoon of baking soda
+- 1 teaspoon of cornflour or cornstarch
 - ½ teaspoon of salt
-- 1 teaspoon of vanilla extract
 - 115g unsalted butter
+- 1 teaspoon of vanilla extract
 - 100g caster sugar
 - 50g brown sugar
 - 1 large egg

@@ -12,9 +12,9 @@ cook_time: 50
 
 - 1kg floury potatoes, for example, Maris Piper, Rooster, Desire, or King Edward
 - 100g rapeseed Oil or 3 Tbsp of duck or goose fat
-- 3-4 Fresh Thyme Sprigs
-- 6-8 cloves of Garlic
 - 2 tsp flour
+- 6-8 cloves of Garlic
+- 3-4 Fresh Thyme Sprigs
 - sea salt flakes to serve
 
 ## Method

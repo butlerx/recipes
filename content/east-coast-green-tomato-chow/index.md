@@ -16,9 +16,9 @@ Makes 6-8 Pints
 ## Ingredients
 
 - 30 Green Tomatoes
-- 3 Spanish Onions
 - 2 Red Peppers
 - 2 Green Peppers
+- 3 Spanish Onions
 - 6 C Raw Sugar
 - 2 C Pickling Vinegar
 - 5 tsp celery seed

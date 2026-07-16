@@ -12,13 +12,13 @@ cook: true # If we are cooking this, leave true, if we are cooling set to false
 
 ## Ingredients
 
-- 60g butter
+- 200ml milk
 - 2 eggs
 - 1 tsp Vanilla extract
 - 192g plain flour
-- 200ml milk
-- 80g starter
 - 2 tsp baking powder
+- 80g starter
+- 60g butter
 
 ## Directions
 

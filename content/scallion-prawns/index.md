@@ -11,13 +11,13 @@ cook_time: 20
 
 ## Ingredients
 
+- Minced ginger
+- Green onion
+- scallions
 - 1 lb prawns
 - 30 g rice wine
 - 3 g salt
 - 10 g rock sugar
-- Minced ginger
-- Green onion
-- scallions
 
 ## Directions
 

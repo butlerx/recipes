@@ -14,9 +14,9 @@ Family, scones recipes. Best eaten hot
 
 - 250g self raising flour
 - 60g unsalted butter
+- 2 small cooking apples, grated
 - 2 TBS of caster sugar
 - 4 TBS of milk
-- 2 small cooking apples, grated
 
 ## directions
 

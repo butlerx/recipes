@@ -15,8 +15,8 @@ Rhubarb muffins, made with sourdough.
 - 50g white sugar
 - 50g brown sugar
 - 24g butter
-- 2 medium eggs
 - 2tsp freshly brewed coffee
+- 2 medium eggs
 - 200g [sourdough starter](../sourdough-starter)
 - 100g rhubarb, diced
 - 100g whole wheat four

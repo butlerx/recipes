@@ -29,10 +29,10 @@ in the blueberries over the stove, it's belovedly called a Blueberry Grunt.
 ## Ingredients
 
 - 4 Cups fresh or frozen blueberries (1 quart)
-- 1/2 cup sugar
-- 1/2 cup water
 - Zest of 1 lemon, finely grated
 - 1/2 tsp cinnamon
+- 1/2 cup water
+- 1/2 cup sugar
 - 1.5 cups flour
 - 2 tsp baking powder
 - 1/4 tsp salt

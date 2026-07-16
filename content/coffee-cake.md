@@ -9,14 +9,14 @@ cook_time: 25
 
 ## Ingredients
 
-- [Coffee Butter Cream](../coffee-butter-cream)
-- 225g plain flour
 - 225g unsalted butter (softened)
 - 225g golden caster sugar
 - 4 eggs
-- 90g Cold Brew coffee
+- 225g plain flour
 - 14g baking powder
+- 90g Cold Brew coffee
 - 4g salt
+- [Coffee Butter Cream](../coffee-butter-cream)
 
 ## Directions
 

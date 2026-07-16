@@ -15,13 +15,13 @@ French pastries. One of my favorite pastries !
 ## Ingredients
 
 - 100 grams of flour
-- 50 grams of unsalted butter
 - 250 grams of sugar
-- 2 eggs + 2 egg yolk
 - 1/2 litre of milk (2%)
+- 50 grams of unsalted butter
 - 1 or 2 vanilla pod(you can use pure vanilla extraction)
-- 1 pinch of salt
+- 2 eggs + 2 egg yolk
 - 1 or 2 tbsp of rum (prefer old rum, the brown one)
+- 1 pinch of salt
 
 ## Directions
 

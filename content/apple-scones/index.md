@@ -16,9 +16,9 @@ scones.
 
 - 250g self-raising flour
 - 60g unsalted butter
+- 2 small cooking apples, grated
 - 2 tbs of caster sugar
 - 4 tbs of milk
-- 2 small cooking apples, grated
 
 ## Directions
 

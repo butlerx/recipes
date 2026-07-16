@@ -9,16 +9,16 @@ cook_time: 60
 
 ## Ingredients
 
-- 3 very ripe bananas
 - 115g unsalted butter, at room temperature
 - 150g brown sugar (plus extra for sprinkling)
+- 117g walnuts
+- 3 very ripe bananas
 - 2 large eggs, lightly beaten
 - 1 tbsp Greek yogurt
 - 187.5g plain flour
 - 1 tsp baking soda
 - ½ tsp salt
 - ½ tsp vanilla extract
-- 117g walnuts
 
 ## Method
 

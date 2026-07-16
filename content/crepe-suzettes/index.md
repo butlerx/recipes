@@ -13,10 +13,10 @@ This should give you around 12 crêpes which is 4 portions
 
 ## Ingredients
 
-- 4 eggs
 - 480 ml (2 cup) of floor
 - 60 ml (4 tbsp) of sugar (optional, not really needed if you are already going to put Maple syrup when you serve it)
 - a touch of salt
+- 4 eggs
 - 700 ml (3 cup) of milk
 - oil for the pan
 

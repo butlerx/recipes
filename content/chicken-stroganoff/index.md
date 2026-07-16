@@ -29,12 +29,12 @@ for an easy pairing!
 - 2 tbsp AP flour
 - 1 tsp paprika
 - fresh ground pepper to taste
+- 1 cup frozen (small sweet) peas (fully optional)
 - 1/2 cup chicken broth
 - 1/2 cup dry red wine (can sub for 1/2 cup more broth)
 - 1 tbsp Worcestershire sauce
 - 1/2 cup sour cream (plus more for garnish)
 - 2 tbsp fresh chopped parsley (dried can work too)
-- 1 cup frozen (small sweet) peas (fully optional)
 
 ## Directions
 

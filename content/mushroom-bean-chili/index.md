@@ -12,7 +12,6 @@ A Mushroom and Bean Chili Served with tacos or rice
 
 ## Ingredients
 
-- [8 Tortillas](/tortillas)
 - 2 tablespoons extra-virgin olive oil
 - 2 bell peppers diced
 - 3 small red onions diced
@@ -28,6 +27,7 @@ A Mushroom and Bean Chili Served with tacos or rice
 - 500ml vegetable stock
 - 1 tablespoon honey
 - 50g chopped fresh coriander
+- [8 Tortillas](/tortillas)
 
 ## Directions
 

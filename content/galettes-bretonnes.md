@@ -17,8 +17,8 @@ but some recipes omit it altogether, making them suitable for vegans.
 
 - 250g buckwheat flour
 - 1 tsp sea salt
-- 500ml water
 - 1 large egg
+- 500ml water
 - 20g melted butter (or oil)
 - Fat for greasing (lard, butter, or vegetable oil)
 
