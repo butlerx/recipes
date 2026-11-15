@@ -1,35 +1,38 @@
 [tools]
-hugo = "latest"
-node = "lts"
+hugo                   = "latest"
+node                   = "lts"
 "npm:markdownlint-cli" = "latest"
-"npm:prettier" = "latest"
-"npm:cspell" = "latest"
-prek = "latest"
+"npm:prettier"         = "latest"
+"npm:cspell"           = "latest"
+prek                   = "latest"
+shellcheck             = "latest"
+tombi                  = "1.2.4"   # matches tombi-pre-commit rev in prek.toml
+zizmor                 = "latest"
 
 [settings]
 experimental = true
-lockfile = true
+lockfile     = true
 
 [tasks.build]
 description = "Build Site"
-sources = ["content/**/*", "config.toml", "go.mod"]
-outputs = ['public/**/*']
-quiet = true
-alias = "b"
-run = """
+sources     = ["content/**/*", "config.toml", "go.mod"]
+outputs     = ["public/**/*"]
+quiet       = true
+alias       = "b"
+run         = """
 echo "🍳 Generating site"
 hugo --gc --minify -d public
 """
 
 [tasks.serve]
 description = "Run development server in debug mode"
-env = { HUGO_MODULE_REPLACEMENTS = "github.com/butlerx/hugo-recipes -> ../../hugo-recipes" }
-run = 'hugo server -D -w'
+env         = { HUGO_MODULE_REPLACEMENTS = "github.com/butlerx/hugo-recipes -> ../../hugo-recipes" }
+run         = "hugo server -D -w"
 
 [tasks.update]
 description = "Update themes and modules"
-quiet = true
-run = """
+quiet       = true
+run         = """
 echo "🛎 Updating Theme"
 hugo mod get -u ./...
 hugo mod tidy
@@ -37,36 +40,58 @@ hugo mod tidy
 
 [tasks.clean]
 description = "Clean built site"
-quiet = true
-run = """
+quiet       = true
+run         = """
 echo "🧹 Cleaning old build"
 rm -rf public resources
 """
 
 [tasks.format]
 description = "Format Markdown files"
-run = "prettier --write ."
+depends     = ["format:toml"]
+run         = "prettier --write ."
 
 [tasks."format:check"]
 description = "Check formatting"
-run = "prettier --check ."
+depends     = ["format:toml:check"]
+run         = "prettier --check ."
 
 [tasks.lint]
 description = "Run markdown linter"
-quiet = true
-run = """
+quiet       = true
+run         = """
 echo "🍜 Testing Markdown"
 markdownlint "content"
 """
 
 [tasks.spell]
 description = "Check spelling"
-quiet = true
-run = """
+quiet       = true
+run         = """
 echo "🔤 Checking Spelling"
 cspell "content/**/*.md"
 """
 
 [tasks.check]
 description = "Run all checks"
-depends = ["format:check", "lint", "spell"]
+depends     = ["format:check", "lint", "spell", "test", "check:actions"]
+
+[tasks.test]
+description = "Smoke test: the site must build (no unit tests)"
+depends     = ["build"]
+
+[tasks.hooks]
+description = "Install the prek git hooks"
+run         = "prek install --install-hooks --hook-type pre-commit --hook-type commit-msg"
+
+[tasks."check:actions"]
+description = "Lint GitHub Actions workflows"
+run         = "zizmor --no-progress .github"
+
+[tasks."format:toml"]
+description = "Format TOML files"
+run         = "tombi format"
+
+[tasks."format:toml:check"]
+description = "Check TOML formatting"
+run         = "tombi format --check"
