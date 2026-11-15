@@ -8,6 +8,7 @@ prek                   = "latest"
 shellcheck             = "latest"
 tombi                  = "1.11.2"  # matches tombi-pre-commit rev in prek.toml
 zizmor                 = "latest"
+"npm:wrangler"         = "latest"
 
 [settings]
 experimental = true
@@ -95,3 +96,8 @@ run         = "tombi format"
 [tasks."format:toml:check"]
 description = "Check TOML formatting"
 run         = "tombi format --check"
+
+[tasks.preview]
+description = "Serve the built site with the Cloudflare Pages runtime"
+depends     = ["build"]
+run         = "wrangler pages dev public"
