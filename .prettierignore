@@ -3,3 +3,6 @@ resources
 public
 themes
 .obsidian
+
+# mise lock sidecars (generated)
+.mise

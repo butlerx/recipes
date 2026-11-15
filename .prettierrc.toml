@@ -1,6 +1,7 @@
-singleQuote = true
+singleQuote   = true
 trailingComma = "all"
-proseWrap = "always"
-printWidth = 120
-endOfLine = "lf"
-tabWidth = 2
+proseWrap     = "always"
+# Canonical is 100. Kept at 120 to match the existing content and .markdownlint.jsonc MD013 (120).
+printWidth    = 120
+endOfLine     = "lf"
+tabWidth      = 2
