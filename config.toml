@@ -1,7 +1,7 @@
-title = "Kitchen Runbook"
-baseURL = "https://recipes.notthe.cloud"
-languageCode = "en-ie"
-enableGitInfo = true
+title            = "Kitchen Runbook"
+baseURL          = "https://recipes.notthe.cloud"
+languageCode     = "en-ie"
+enableGitInfo    = true
 sectionPagesMenu = "main"
 
 [pagination]
@@ -9,30 +9,31 @@ pagerSize = 20
 
 [params]
 description = "Random recipes i've collected and made"
-theme = "#151515"
+theme       = "#151515"
 
 [params.author]
-name = "Cian Butler"
+name      = "Cian Butler"
 fediverse = "@butlerx@mastodon.ie"
 
 [[menu.main]]
-name = "Home"
-url = "/"
+name   = "Home"
+url    = "/"
 weight = 1
 
 [[menu.main]]
-name = "Tags"
-url = "/tags/"
+name   = "Tags"
+url    = "/tags/"
 weight = 2
 
 [[menu.main]]
-name = "Me"
-url = "https://cianbutler.ie"
+name   = "Me"
+url    = "https://cianbutler.ie"
 weight = 10
 
 [module]
 [module.hugoVersion]
 min = "0.128.0"
+
 [[module.imports]]
-path = "github.com/butlerx/hugo-recipes"
+path    = "github.com/butlerx/hugo-recipes"
 disable = false
